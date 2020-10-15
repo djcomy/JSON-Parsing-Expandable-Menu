@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="15705" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina5_5" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15706"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="0.0" reuseIdentifier="StackViewCell" rowHeight="280" id="KGk-i7-Jjw" customClass="StackViewCell" customModule="ExpandableCellScrollView" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="275"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="375" height="275"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" translatesAutoresizingMaskIntoConstraints="NO" id="YYD-D3-U0L">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="275"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="8mC-h0-8Wv" userLabel="Open View">
+                                <rect key="frame" x="0.0" y="0.0" width="375" height="50"/>
+                                <color key="backgroundColor" red="0.90476843159999998" green="0.93131636740000001" blue="0.95962663500000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="50" id="p2G-m2-ANn"/>
+                                </constraints>
+                            </view>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="CJU-YS-dER" userLabel="Stuff View">
+                                <rect key="frame" x="0.0" y="50" width="375" height="225"/>
+                                <subviews>
+                                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="WOe-4G-2wE">
+                                        <rect key="frame" x="0.0" y="0.0" width="375" height="224"/>
+                                        <color key="backgroundColor" red="0.90476843161128961" green="0.93131636744166235" blue="0.9596266350005076" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                    </imageView>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="YQZ-U6-2Ru">
+                                        <rect key="frame" x="8" y="185" width="362" height="20"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="20" id="mLA-7b-6bJ"/>
+                                        </constraints>
+                                        <fontDescription key="fontDescription" name="TrebuchetMS-Bold" family="Trebuchet MS" pointSize="13"/>
+                                        <color key="textColor" red="0.23617598410000001" green="0.34275841709999999" blue="0.59610527749999997" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Rrh-tG-XHX">
+                                        <rect key="frame" x="8" y="205" width="362" height="20"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="20" id="nZh-jr-Nig"/>
+                                        </constraints>
+                                        <fontDescription key="fontDescription" name="TrebuchetMS-Bold" family="Trebuchet MS" pointSize="13"/>
+                                        <color key="textColor" red="0.23617598410000001" green="0.34275841709999999" blue="0.59610527749999997" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="oh0-vO-VLz">
+                                        <rect key="frame" x="0.0" y="0.0" width="375" height="50"/>
+                                        <subviews>
+                                            <button opaque="NO" tag="1" contentMode="scaleToFill" horizontalHuggingPriority="249" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="L7B-yU-eWD">
+                                                <rect key="frame" x="7.6666666666666714" y="5" width="115" height="40"/>
+                                                <color key="backgroundColor" red="0.58290827270000001" green="0.67054301500000002" blue="0.8666912913" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                                <fontDescription key="fontDescription" name="TrebuchetMS-Bold" family="Trebuchet MS" pointSize="17"/>
+                                                <color key="tintColor" red="0.62205330260000002" green="0.86917036800000003" blue="0.86917036800000003" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                                <state key="normal" title="Radni dan">
+                                                    <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                </state>
+                                                <userDefinedRuntimeAttributes>
+                                                    <userDefinedRuntimeAttribute type="number" keyPath="borderWidth">
+                                                        <real key="value" value="2"/>
+                                                    </userDefinedRuntimeAttribute>
+                                                    <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                                        <integer key="value" value="12"/>
+                                                    </userDefinedRuntimeAttribute>
+                                                    <userDefinedRuntimeAttribute type="color" keyPath="borderColor">
+                                                        <color key="value" red="0.23617598410000001" green="0.34275841709999999" blue="0.59610527749999997" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                                    </userDefinedRuntimeAttribute>
+                                                </userDefinedRuntimeAttributes>
+                                                <connections>
+                                                    <action selector="danVikendBtnClick:" destination="KGk-i7-Jjw" eventType="touchUpInside" id="m1I-r8-elk"/>
+                                                </connections>
+                                            </button>
+                                            <button opaque="NO" tag="2" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="oTu-DQ-7x2">
+                                                <rect key="frame" x="130" y="5" width="115" height="40"/>
+                                                <color key="backgroundColor" red="0.58290827270000001" green="0.67054301500000002" blue="0.8666912913" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                                <constraints>
+                                                    <constraint firstAttribute="width" constant="115" id="awd-x4-BDW"/>
+                                                    <constraint firstAttribute="height" constant="40" id="sf9-Pc-IRY"/>
+                                                </constraints>
+                                                <fontDescription key="fontDescription" name="TrebuchetMS-Bold" family="Trebuchet MS" pointSize="17"/>
+                                                <color key="tintColor" red="0.62205330260000002" green="0.86917036800000003" blue="0.86917036800000003" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                                <state key="normal" title="Subota">
+                                                    <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                </state>
+                                                <userDefinedRuntimeAttributes>
+                                                    <userDefinedRuntimeAttribute type="number" keyPath="borderWidth">
+                                                        <real key="value" value="2"/>
+                                                    </userDefinedRuntimeAttribute>
+                                                    <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                                        <real key="value" value="12"/>
+                                                    </userDefinedRuntimeAttribute>
+                                                    <userDefinedRuntimeAttribute type="color" keyPath="borderColor">
+                                                        <color key="value" red="0.23617598410000001" green="0.34275841709999999" blue="0.59610527749999997" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                                    </userDefinedRuntimeAttribute>
+                                                </userDefinedRuntimeAttributes>
+                                                <connections>
+                                                    <action selector="danVikendBtnClick:" destination="KGk-i7-Jjw" eventType="touchUpInside" id="Efz-fG-tNI"/>
+                                                </connections>
+                                            </button>
+                                            <button opaque="NO" tag="3" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="wZ0-Mo-4bF">
+                                                <rect key="frame" x="252.66666666666663" y="5" width="115" height="40"/>
+                                                <color key="backgroundColor" red="0.58290827270000001" green="0.67054301500000002" blue="0.8666912913" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                                <fontDescription key="fontDescription" name="TrebuchetMS-Bold" family="Trebuchet MS" pointSize="17"/>
+                                                <color key="tintColor" red="0.62205330260000002" green="0.86917036800000003" blue="0.86917036800000003" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                                <state key="normal" title="Nedelja">
+                                                    <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                </state>
+                                                <userDefinedRuntimeAttributes>
+                                                    <userDefinedRuntimeAttribute type="color" keyPath="borderColor">
+                                                        <color key="value" red="0.23617598410000001" green="0.34275841709999999" blue="0.59610527749999997" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                                    </userDefinedRuntimeAttribute>
+                                                    <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                                        <real key="value" value="12"/>
+                                                    </userDefinedRuntimeAttribute>
+                                                    <userDefinedRuntimeAttribute type="number" keyPath="borderWidth">
+                                                        <real key="value" value="2"/>
+                                                    </userDefinedRuntimeAttribute>
+                                                </userDefinedRuntimeAttributes>
+                                                <connections>
+                                                    <action selector="danVikendBtnClick:" destination="KGk-i7-Jjw" eventType="touchUpInside" id="1Fj-Mc-v8e"/>
+                                                </connections>
+                                            </button>
+                                        </subviews>
+                                        <color key="backgroundColor" red="0.90476843159999998" green="0.93131636740000001" blue="0.95962663500000001" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                        <constraints>
+                                            <constraint firstItem="L7B-yU-eWD" firstAttribute="leading" secondItem="oh0-vO-VLz" secondAttribute="leading" constant="7.5" id="1eS-aQ-EZz"/>
+                                            <constraint firstAttribute="trailing" secondItem="wZ0-Mo-4bF" secondAttribute="trailing" constant="7.5" id="3Uq-i1-uQb"/>
+                                            <constraint firstItem="oTu-DQ-7x2" firstAttribute="top" secondItem="oh0-vO-VLz" secondAttribute="top" constant="5" id="5zv-fg-51e"/>
+                                            <constraint firstItem="wZ0-Mo-4bF" firstAttribute="leading" secondItem="oTu-DQ-7x2" secondAttribute="trailing" constant="7.5" id="8LI-sa-I4M"/>
+                                            <constraint firstItem="oTu-DQ-7x2" firstAttribute="leading" secondItem="L7B-yU-eWD" secondAttribute="trailing" constant="7.5" id="FWA-s2-SSV"/>
+                                            <constraint firstAttribute="bottom" secondItem="oTu-DQ-7x2" secondAttribute="bottom" constant="5" id="WAh-5F-Ou5"/>
+                                            <constraint firstItem="oTu-DQ-7x2" firstAttribute="centerX" secondItem="oh0-vO-VLz" secondAttribute="centerX" id="Zdw-a4-EXm"/>
+                                            <constraint firstAttribute="bottom" secondItem="L7B-yU-eWD" secondAttribute="bottom" constant="5" id="aOo-Ig-rYG"/>
+                                            <constraint firstItem="wZ0-Mo-4bF" firstAttribute="top" secondItem="oh0-vO-VLz" secondAttribute="top" constant="5" id="d7b-aZ-q63"/>
+                                            <constraint firstItem="L7B-yU-eWD" firstAttribute="top" secondItem="oh0-vO-VLz" secondAttribute="top" constant="5" id="hcL-wI-8iV"/>
+                                            <constraint firstAttribute="bottom" secondItem="wZ0-Mo-4bF" secondAttribute="bottom" constant="5" id="pfV-xn-hrM"/>
+                                            <constraint firstItem="oTu-DQ-7x2" firstAttribute="centerY" secondItem="oh0-vO-VLz" secondAttribute="centerY" id="zmz-rK-LgQ"/>
+                                        </constraints>
+                                    </view>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Minuti" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="EdZ-US-OIx">
+                                        <rect key="frame" x="0.0" y="125" width="375" height="40"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="40" id="X1j-10-rCL"/>
+                                        </constraints>
+                                        <fontDescription key="fontDescription" name="TrebuchetMS-Bold" family="Trebuchet MS" pointSize="25"/>
+                                        <color key="textColor" red="0.23617598410000001" green="0.34275841709999999" blue="0.59610527749999997" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                <constraints>
+                                    <constraint firstItem="WOe-4G-2wE" firstAttribute="leading" secondItem="CJU-YS-dER" secondAttribute="leading" id="1wK-dL-IMF"/>
+                                    <constraint firstAttribute="trailing" secondItem="oh0-vO-VLz" secondAttribute="trailing" id="7M9-YZ-WiT"/>
+                                    <constraint firstItem="oh0-vO-VLz" firstAttribute="top" secondItem="CJU-YS-dER" secondAttribute="top" id="7X6-L8-S6d"/>
+                                    <constraint firstItem="WOe-4G-2wE" firstAttribute="top" secondItem="CJU-YS-dER" secondAttribute="top" id="GZZ-ST-E6t"/>
+                                    <constraint firstAttribute="trailing" secondItem="WOe-4G-2wE" secondAttribute="trailing" id="MGh-4w-AlE"/>
+                                    <constraint firstAttribute="height" constant="225" id="MPt-iG-jjf"/>
+                                    <constraint firstAttribute="bottom" secondItem="WOe-4G-2wE" secondAttribute="bottom" constant="1" id="Mi1-02-aEg"/>
+                                    <constraint firstItem="oh0-vO-VLz" firstAttribute="leading" secondItem="CJU-YS-dER" secondAttribute="leading" id="Nf8-gi-ztC"/>
+                                    <constraint firstItem="Rrh-tG-XHX" firstAttribute="top" secondItem="YQZ-U6-2Ru" secondAttribute="bottom" id="fOd-YJ-6IU"/>
+                                    <constraint firstItem="YQZ-U6-2Ru" firstAttribute="top" secondItem="EdZ-US-OIx" secondAttribute="bottom" constant="20" id="iTz-mg-WpA"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstAttribute="trailing" secondItem="Rrh-tG-XHX" secondAttribute="trailing" constant="5" id="0xH-Af-8NY"/>
+                            <constraint firstItem="Rrh-tG-XHX" firstAttribute="leading" secondItem="YYD-D3-U0L" secondAttribute="leading" constant="8" id="Cqy-Xf-F8O"/>
+                            <constraint firstAttribute="bottom" secondItem="Rrh-tG-XHX" secondAttribute="bottom" id="D5J-Zv-jsG"/>
+                            <constraint firstAttribute="trailing" secondItem="YQZ-U6-2Ru" secondAttribute="trailing" constant="5" id="GbB-Le-7hN"/>
+                            <constraint firstItem="CJU-YS-dER" firstAttribute="top" secondItem="YYD-D3-U0L" secondAttribute="top" constant="50" id="JYk-Wm-CaF"/>
+                            <constraint firstItem="EdZ-US-OIx" firstAttribute="leading" secondItem="YYD-D3-U0L" secondAttribute="leading" id="hHc-8U-YoW"/>
+                            <constraint firstAttribute="trailing" secondItem="EdZ-US-OIx" secondAttribute="trailing" id="lEw-OC-Ze8"/>
+                            <constraint firstItem="EdZ-US-OIx" firstAttribute="centerX" secondItem="YYD-D3-U0L" secondAttribute="centerX" id="lZu-49-bJL"/>
+                            <constraint firstItem="YQZ-U6-2Ru" firstAttribute="leading" secondItem="YYD-D3-U0L" secondAttribute="leading" constant="8" id="spx-jR-4os"/>
+                        </constraints>
+                    </stackView>
+                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="BgF-r8-3h4">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="50"/>
+                        <color key="backgroundColor" red="0.39558964969999999" green="0.49694401030000002" blue="0.72551673650000004" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="50" id="Aj1-uY-taS"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" name="TrebuchetMS-Bold" family="Trebuchet MS" pointSize="17"/>
+                        <state key="normal" title="Ime Linije">
+                            <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        </state>
+                    </button>
+                </subviews>
+                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                <constraints>
+                    <constraint firstItem="YYD-D3-U0L" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" id="aVk-jZ-elK"/>
+                    <constraint firstItem="YYD-D3-U0L" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" id="fpy-BT-VhU"/>
+                    <constraint firstAttribute="bottom" secondItem="YYD-D3-U0L" secondAttribute="bottom" id="vpF-Qe-VbN"/>
+                    <constraint firstAttribute="trailing" secondItem="YYD-D3-U0L" secondAttribute="trailing" id="ys9-Pw-C7i"/>
+                </constraints>
+                <userDefinedRuntimeAttributes>
+                    <userDefinedRuntimeAttribute type="number" keyPath="layer.cornerRadius">
+                        <integer key="value" value="5"/>
+                    </userDefinedRuntimeAttribute>
+                </userDefinedRuntimeAttributes>
+            </tableViewCellContentView>
+            <constraints>
+                <constraint firstItem="BgF-r8-3h4" firstAttribute="leading" secondItem="KGk-i7-Jjw" secondAttribute="leading" id="JfR-fQ-hpg"/>
+                <constraint firstItem="BgF-r8-3h4" firstAttribute="top" secondItem="KGk-i7-Jjw" secondAttribute="top" id="cSI-KD-WVT"/>
+                <constraint firstAttribute="trailing" secondItem="BgF-r8-3h4" secondAttribute="trailing" id="u5n-N8-ayl"/>
+            </constraints>
+            <connections>
+                <outlet property="danNedelja" destination="wZ0-Mo-4bF" id="hrN-Sv-hTC"/>
+                <outlet property="danRadni" destination="L7B-yU-eWD" id="cZQ-mP-EdD"/>
+                <outlet property="danSubota" destination="oTu-DQ-7x2" id="hkI-9K-Y0A"/>
+                <outlet property="labelInformacije" destination="Rrh-tG-XHX" id="qre-6i-rRf"/>
+                <outlet property="labelMinut" destination="EdZ-US-OIx" id="kEJ-kr-9bv"/>
+                <outlet property="labelNocniPrevoz" destination="YQZ-U6-2Ru" id="zLr-yU-MFH"/>
+                <outlet property="open" destination="BgF-r8-3h4" id="gVv-fM-LeP"/>
+                <outlet property="stuffView" destination="CJU-YS-dER" id="p2L-nT-GWU"/>
+            </connections>
+            <point key="canvasLocation" x="34.057971014492757" y="50.135869565217398"/>
+        </tableViewCell>
+    </objects>
+</document>

@@ -1,0 +1,2615 @@
+{
+    "gradskelinije":[
+            {
+                "linija": "L01: Niška Banja - Minovo naselje",
+                "nocniradni": "Noćni polasci: Petak 01:45, 03:15",
+                "nocnisubota": "Noćni polasci: Subota 01:45*, 03:15*",
+                "nocninedelja": "Noćni polasci: Nema polazaka",
+                "dodatneinformacije": "*do Ledene Stene/**od Šivare/***svracaju u Lozni Kamen",
+                "satnica":
+                {
+                    "danradni": [
+                        
+                        { "sat": "04h", "minuti": "50 min"},
+                        { "sat": "05h", "minuti": "05, 25, 44, 54 min"},
+                        { "sat": "06h", "minuti": "04, 15, 26, 41, 56* min"},
+                        { "sat": "07h", "minuti": "10, 21, 32*, 43, 54 min"},
+                        { "sat": "08h", "minuti": "05*, 21, 37*, 53 min"},
+                        { "sat": "09h", "minuti": "09*, 25, 41*, 57 min"},
+                        { "sat": "10h", "minuti": "13*, 29, 45* min"},
+                        { "sat": "11h", "minuti": "01, 17*, 33, 49 min"},
+                        { "sat": "12h", "minuti": "05*, 18, 27*, 38, 49* min"},
+                        { "sat": "13h", "minuti": "00, 11*, 22, 33*, 44, 55* min"},
+                        { "sat": "14h", "minuti": "06, 17***, 28, 39, 50 min"},
+                        { "sat": "15h", "minuti": "01, 12, 23, 34, 45*, 56 min"},
+                        { "sat": "16h", "minuti": "15*, 35, 54* min"},
+                        { "sat": "17h", "minuti": "14, 33*, 53 min"},
+                        { "sat": "18h", "minuti": "12*, 32, 51 min"},
+                        { "sat": "19h", "minuti": "11, 30, 50 min"},
+                        { "sat": "20h", "minuti": "22, 54 min"},
+                        { "sat": "21h", "minuti": "26, 58 min"},
+                        { "sat": "22h", "minuti": "30*** min"},
+                        { "sat": "23h", "minuti": "02, 34 min"},
+                        { "sat": "00h", "minuti": "06, 35 min"}
+                    ],
+                    
+                    "dansubota": [
+                        
+                        { "sat": "04h", "minuti": "50 min"},
+                        { "sat": "05h", "minuti": "10, 40 min"},
+                        { "sat": "06h", "minuti": "15, 46 min"},
+                        { "sat": "07h", "minuti": "32* min"},
+                        { "sat": "08h", "minuti": "00, 25*, 50 min"},
+                        { "sat": "09h", "minuti": "15*, 40 min"},
+                        { "sat": "10h", "minuti": "05*, 30, 55* min"},
+                        { "sat": "11h", "minuti": "18*, 41 min"},
+                        { "sat": "12h", "minuti": "06, 23, 25**, 37, 51 min"},
+                        { "sat": "13h", "minuti": "05, 19, 33, 47 min"},
+                        { "sat": "14h", "minuti": "01, 15, 29, 43, 57 min"},
+                        { "sat": "15h", "minuti": "22, 47 min"},
+                        { "sat": "16h", "minuti": "12, 37 min"},
+                        { "sat": "17h", "minuti": "02, 27, 52 min"},
+                        { "sat": "18h", "minuti": "17, 43 min"},
+                        { "sat": "19h", "minuti": "07, 32, 57 min"},
+                        { "sat": "20h", "minuti": "19, 51 min"},
+                        { "sat": "21h", "minuti": "23, 55 min"},
+                        { "sat": "22h", "minuti": "27, 59 min"},
+                        { "sat": "23h", "minuti": "31 min"},
+                        { "sat": "00h", "minuti": "03, 35 min"}
+                                                   
+                    ],
+                    
+                    "dannedelja": [
+                        
+                        { "sat": "05h", "minuti": "10, 42 min"},
+                        { "sat": "06h", "minuti": "14, 46 min"},
+                        { "sat": "07h", "minuti": "18, 50 min"},
+                        { "sat": "08h", "minuti": "22, 46 min"},
+                        { "sat": "09h", "minuti": "10, 34, 58 min"},
+                        { "sat": "10h", "minuti": "22, 46 min"},
+                        { "sat": "11h", "minuti": "10, 34, 58 min"},
+                        { "sat": "12h", "minuti": "22, 46 min"},
+                        { "sat": "13h", "minuti": "10, 34, 58 min"},
+                        { "sat": "14h", "minuti": "22, 46 min"},
+                        { "sat": "15h", "minuti": "10, 34, 58 min"},
+                        { "sat": "16h", "minuti": "30 min"},
+                        { "sat": "17h", "minuti": "02, 48 min"},
+                        { "sat": "18h", "minuti": "40 min"},
+                        { "sat": "19h", "minuti": "27 min"},
+                        { "sat": "20h", "minuti": "14 min"},
+                        { "sat": "21h", "minuti": "01, 48 min"},
+                        { "sat": "22h", "minuti": "35 min"},
+                        { "sat": "23h", "minuti": "22 min"},
+                        { "sat": "00h", "minuti": "05 min"}
+                        
+                    ]
+                    
+                }
+                
+            },
+            {
+                "linija": "L01: Minovo naselje - Niška Banja",
+                "nocniradni": "Noćni polasci: Petak 01:00*, 02:30*",
+                "nocnisubota": "Noćni polasci: Subota 01:00*, 02:30*",
+                "nocninedelja": "Noćni polasci: Nema polazaka",
+                "dodatneinformacije": "*sa Ledene Stene/***svracaju u Lozni Kamen",
+                
+                "satnica":
+                {
+                    "danradni": [
+                        
+                        { "sat": "04h", "minuti": "17, 37, 52*** min"},
+                        { "sat": "05h", "minuti": "07, 17, 25, 38, 53 min"},
+                        { "sat": "06h", "minuti": "08, 19, 30, 41, 52 min"},
+                        { "sat": "07h", "minuti": "03, 14, 31*, 37, 55* min"},
+                        { "sat": "08h", "minuti": "06, 27*, 37, 59* min"},
+                        { "sat": "09h", "minuti": "09, 31*, 41 min"},
+                        { "sat": "10h", "minuti": "03*, 13, 35*, 45 min"},
+                        { "sat": "11h", "minuti": "07*, 17, 39*, 49 min"},
+                        { "sat": "12h", "minuti": "00, 11*, 20, 37*, 42, 59* min"},
+                        { "sat": "13h", "minuti": "04, 21*, 26, 43*, 48 min"},
+                        { "sat": "14h", "minuti": "05*, 10, 27*, 32, 49*, 54 min"},
+                        { "sat": "15h", "minuti": "08, 27, 38 min"},
+                        { "sat": "16h", "minuti": "05, 22, 44 min"},
+                        { "sat": "17h", "minuti": "09*, 23, 48* min"},
+                        { "sat": "18h", "minuti": "02, 27*, 41 min"},
+                        { "sat": "19h", "minuti": "06*, 37 min"},
+                        { "sat": "20h", "minuti": "06, 38 min"},
+                        { "sat": "21h", "minuti": "10, 42 min"},
+                        { "sat": "22h", "minuti": "15, 46 min"},
+                        { "sat": "23h", "minuti": "18, 50 min"}
+                        
+                    ],
+                    
+                    "dansubota": [
+                        
+                        { "sat": "04h", "minuti": "25, 52 min"},
+                        { "sat": "05h", "minuti": "30, 58 min"},
+                        { "sat": "06h", "minuti": "35 min"},
+                        { "sat": "07h", "minuti": "09, 34, 58 min"},
+                        { "sat": "08h", "minuti": "31*, 48 min"},
+                        { "sat": "09h", "minuti": "21*, 38 min"},
+                        { "sat": "10h", "minuti": "11*, 28 min"},
+                        { "sat": "11h", "minuti": "01*, 18, 41*, 54* min"},
+                        { "sat": "12h", "minuti": "00, 22*, 29, 43, 57 min"},
+                        { "sat": "13h", "minuti": "11, 25, 39, 53 min"},
+                        { "sat": "14h", "minuti": "07, 30, 55 min"},
+                        { "sat": "15h", "minuti": "20, 45 min"},
+                        { "sat": "16h", "minuti": "10, 45 min"},
+                        { "sat": "17h", "minuti": "00, 25, 55 min"},
+                        { "sat": "18h", "minuti": "15, 40 min"},
+                        { "sat": "19h", "minuti": "05, 30 min"},
+                        { "sat": "20h", "minuti": "02, 35 min"},
+                        { "sat": "21h", "minuti": "07, 39 min"},
+                        { "sat": "22h", "minuti": "06, 43 min"},
+                        { "sat": "23h", "minuti": "15, 47 min"}
+                                                   
+                    ],
+                    
+                    "dannedelja": [
+                        
+                        { "sat": "04h", "minuti": "20, 54 min"},
+                        { "sat": "05h", "minuti": "26, 58 min"},
+                        { "sat": "06h", "minuti": "30 min"},
+                        { "sat": "07h", "minuti": "02, 34, 58 min"},
+                        { "sat": "08h", "minuti": "22, 46 min"},
+                        { "sat": "09h", "minuti": "10, 34, 58 min"},
+                        { "sat": "10h", "minuti": "22, 45 min"},
+                        { "sat": "11h", "minuti": "10, 34, 58 min"},
+                        { "sat": "12h", "minuti": "22, 46 min"},
+                        { "sat": "13h", "minuti": "10, 34, 58 min"},
+                        { "sat": "14h", "minuti": "22, 46 min"},
+                        { "sat": "15h", "minuti": "10, 42 min"},
+                        { "sat": "16h", "minuti": "14 min"},
+                        { "sat": "17h", "minuti": "00, 50 min"},
+                        { "sat": "18h", "minuti": "37 min"},
+                        { "sat": "19h", "minuti": "27 min"},
+                        { "sat": "20h", "minuti": "14 min"},
+                        { "sat": "21h", "minuti": "01, 48 min"},
+                        { "sat": "22h", "minuti": "35 min"},
+                        { "sat": "23h", "minuti": "22 min"}
+                        
+                    ]
+                    
+                }
+            
+            },
+            {
+                "linija": "L02: Bubanj - Donja Vrežina",
+                "nocniradni": "Noćni polasci: Petak 01:00*, 02:30*",
+                "nocnisubota": "Noćni polasci: Subota 01:00*, 02:30*",
+                "nocninedelja": "Noćni polasci: Nema polazaka",
+                "dodatneinformacije": "*sa Ledene Stene/***svracaju u Lozni Kamen",
+                
+                "satnica":
+                {
+                    "danradni": [
+                        
+                        { "sat": "04h", "minuti": "17, 37, 52*** min"},
+                        { "sat": "05h", "minuti": "07, 17, 25, 38, 53 min"},
+                        { "sat": "06h", "minuti": "08, 19, 30, 41, 52 min"},
+                        { "sat": "07h", "minuti": "03, 14, 31*, 37, 55* min"},
+                        { "sat": "08h", "minuti": "06, 27*, 37, 59* min"},
+                        { "sat": "09h", "minuti": "09, 31*, 41 min"},
+                        { "sat": "10h", "minuti": "03*, 13, 35*, 45 min"},
+                        { "sat": "11h", "minuti": "07*, 17, 39*, 49 min"},
+                        { "sat": "12h", "minuti": "00, 11*, 20, 37*, 42, 59* min"},
+                        { "sat": "13h", "minuti": "04, 21*, 26, 43*, 48 min"},
+                        { "sat": "14h", "minuti": "05*, 10, 27*, 32, 49*, 54 min"},
+                        { "sat": "15h", "minuti": "08, 27, 38 min"},
+                        { "sat": "16h", "minuti": "05, 22, 44 min"},
+                        { "sat": "17h", "minuti": "09*, 23, 48* min"},
+                        { "sat": "18h", "minuti": "02, 27*, 41 min"},
+                        { "sat": "19h", "minuti": "06*, 37 min"},
+                        { "sat": "20h", "minuti": "06, 38 min"},
+                        { "sat": "21h", "minuti": "10, 42 min"},
+                        { "sat": "22h", "minuti": "15, 46 min"},
+                        { "sat": "23h", "minuti": "18, 50 min"}
+                        
+                    ],
+                    
+                    "dansubota": [
+                        
+                        { "sat": "04h", "minuti": "25, 52 min"},
+                        { "sat": "05h", "minuti": "30, 58 min"},
+                        { "sat": "06h", "minuti": "35 min"},
+                        { "sat": "07h", "minuti": "09, 34, 58 min"},
+                        { "sat": "08h", "minuti": "31*, 48 min"},
+                        { "sat": "09h", "minuti": "21*, 38 min"},
+                        { "sat": "10h", "minuti": "11*, 28 min"},
+                        { "sat": "11h", "minuti": "01*, 18, 41*, 54* min"},
+                        { "sat": "12h", "minuti": "00, 22*, 29, 43, 57 min"},
+                        { "sat": "13h", "minuti": "11, 25, 39, 53 min"},
+                        { "sat": "14h", "minuti": "07, 30, 55 min"},
+                        { "sat": "15h", "minuti": "20, 45 min"},
+                        { "sat": "16h", "minuti": "10, 45 min"},
+                        { "sat": "17h", "minuti": "00, 25, 55 min"},
+                        { "sat": "18h", "minuti": "15, 40 min"},
+                        { "sat": "19h", "minuti": "05, 30 min"},
+                        { "sat": "20h", "minuti": "02, 35 min"},
+                        { "sat": "21h", "minuti": "07, 39 min"},
+                        { "sat": "22h", "minuti": "06, 43 min"},
+                        { "sat": "23h", "minuti": "15, 47 min"}
+                                                   
+                    ],
+                    
+                    "dannedelja": [
+                        
+                        { "sat": "04h", "minuti": "20, 54 min"},
+                        { "sat": "05h", "minuti": "26, 58 min"},
+                        { "sat": "06h", "minuti": "30 min"},
+                        { "sat": "07h", "minuti": "02, 34, 58 min"},
+                        { "sat": "08h", "minuti": "22, 46 min"},
+                        { "sat": "09h", "minuti": "10, 34, 58 min"},
+                        { "sat": "10h", "minuti": "22, 45 min"},
+                        { "sat": "11h", "minuti": "10, 34, 58 min"},
+                        { "sat": "12h", "minuti": "22, 46 min"},
+                        { "sat": "13h", "minuti": "10, 34, 58 min"},
+                        { "sat": "14h", "minuti": "22, 46 min"},
+                        { "sat": "15h", "minuti": "10, 42 min"},
+                        { "sat": "16h", "minuti": "14 min"},
+                        { "sat": "17h", "minuti": "00, 50 min"},
+                        { "sat": "18h", "minuti": "37 min"},
+                        { "sat": "19h", "minuti": "27 min"},
+                        { "sat": "20h", "minuti": "14 min"},
+                        { "sat": "21h", "minuti": "01, 48 min"},
+                        { "sat": "22h", "minuti": "35 min"},
+                        { "sat": "23h", "minuti": "22 min"}
+                        
+                    ]
+                    
+                }
+            
+            },
+            {
+                "linija": "L02: Donja Vrežina - Bubanj",
+                "nocniradni": "Noćni polasci: Petak 01:00*, 02:30*",
+                "nocnisubota": "Noćni polasci: Subota 01:00*, 02:30*",
+                "nocninedelja": "Noćni polasci: Nema polazaka",
+                "dodatneinformacije": "*sa Ledene Stene/***svracaju u Lozni Kamen",
+                
+                "satnica":
+                {
+                    "danradni": [
+                        
+                        { "sat": "04h", "minuti": "17, 37, 52*** min"},
+                        { "sat": "05h", "minuti": "07, 17, 25, 38, 53 min"},
+                        { "sat": "06h", "minuti": "08, 19, 30, 41, 52 min"},
+                        { "sat": "07h", "minuti": "03, 14, 31*, 37, 55* min"},
+                        { "sat": "08h", "minuti": "06, 27*, 37, 59* min"},
+                        { "sat": "09h", "minuti": "09, 31*, 41 min"},
+                        { "sat": "10h", "minuti": "03*, 13, 35*, 45 min"},
+                        { "sat": "11h", "minuti": "07*, 17, 39*, 49 min"},
+                        { "sat": "12h", "minuti": "00, 11*, 20, 37*, 42, 59* min"},
+                        { "sat": "13h", "minuti": "04, 21*, 26, 43*, 48 min"},
+                        { "sat": "14h", "minuti": "05*, 10, 27*, 32, 49*, 54 min"},
+                        { "sat": "15h", "minuti": "08, 27, 38 min"},
+                        { "sat": "16h", "minuti": "05, 22, 44 min"},
+                        { "sat": "17h", "minuti": "09*, 23, 48* min"},
+                        { "sat": "18h", "minuti": "02, 27*, 41 min"},
+                        { "sat": "19h", "minuti": "06*, 37 min"},
+                        { "sat": "20h", "minuti": "06, 38 min"},
+                        { "sat": "21h", "minuti": "10, 42 min"},
+                        { "sat": "22h", "minuti": "15, 46 min"},
+                        { "sat": "23h", "minuti": "18, 50 min"}
+                        
+                    ],
+                    
+                    "dansubota": [
+                        
+                        { "sat": "04h", "minuti": "25, 52 min"},
+                        { "sat": "05h", "minuti": "30, 58 min"},
+                        { "sat": "06h", "minuti": "35 min"},
+                        { "sat": "07h", "minuti": "09, 34, 58 min"},
+                        { "sat": "08h", "minuti": "31*, 48 min"},
+                        { "sat": "09h", "minuti": "21*, 38 min"},
+                        { "sat": "10h", "minuti": "11*, 28 min"},
+                        { "sat": "11h", "minuti": "01*, 18, 41*, 54* min"},
+                        { "sat": "12h", "minuti": "00, 22*, 29, 43, 57 min"},
+                        { "sat": "13h", "minuti": "11, 25, 39, 53 min"},
+                        { "sat": "14h", "minuti": "07, 30, 55 min"},
+                        { "sat": "15h", "minuti": "20, 45 min"},
+                        { "sat": "16h", "minuti": "10, 45 min"},
+                        { "sat": "17h", "minuti": "00, 25, 55 min"},
+                        { "sat": "18h", "minuti": "15, 40 min"},
+                        { "sat": "19h", "minuti": "05, 30 min"},
+                        { "sat": "20h", "minuti": "02, 35 min"},
+                        { "sat": "21h", "minuti": "07, 39 min"},
+                        { "sat": "22h", "minuti": "06, 43 min"},
+                        { "sat": "23h", "minuti": "15, 47 min"}
+                                                   
+                    ],
+                    
+                    "dannedelja": [
+                        
+                        { "sat": "04h", "minuti": "20, 54 min"},
+                        { "sat": "05h", "minuti": "26, 58 min"},
+                        { "sat": "06h", "minuti": "30 min"},
+                        { "sat": "07h", "minuti": "02, 34, 58 min"},
+                        { "sat": "08h", "minuti": "22, 46 min"},
+                        { "sat": "09h", "minuti": "10, 34, 58 min"},
+                        { "sat": "10h", "minuti": "22, 45 min"},
+                        { "sat": "11h", "minuti": "10, 34, 58 min"},
+                        { "sat": "12h", "minuti": "22, 46 min"},
+                        { "sat": "13h", "minuti": "10, 34, 58 min"},
+                        { "sat": "14h", "minuti": "22, 46 min"},
+                        { "sat": "15h", "minuti": "10, 42 min"},
+                        { "sat": "16h", "minuti": "14 min"},
+                        { "sat": "17h", "minuti": "00, 50 min"},
+                        { "sat": "18h", "minuti": "37 min"},
+                        { "sat": "19h", "minuti": "27 min"},
+                        { "sat": "20h", "minuti": "14 min"},
+                        { "sat": "21h", "minuti": "01, 48 min"},
+                        { "sat": "22h", "minuti": "35 min"},
+                        { "sat": "23h", "minuti": "22 min"}
+                        
+                    ]
+                    
+                }
+            
+            },
+            {
+                "linija": "L03: Brzi Brod - Naselje Ratko Jović",
+                "nocniradni": "Noćni polasci: Petak 01:00*, 02:30*",
+                "nocnisubota": "Noćni polasci: Subota 01:00*, 02:30*",
+                "nocninedelja": "Noćni polasci: Nema polazaka",
+                "dodatneinformacije": "*sa Ledene Stene/***svracaju u Lozni Kamen",
+                
+                "satnica":
+                {
+                    "danradni": [
+                        
+                        { "sat": "04h", "minuti": "17, 37, 52*** min"},
+                        { "sat": "05h", "minuti": "07, 17, 25, 38, 53 min"},
+                        { "sat": "06h", "minuti": "08, 19, 30, 41, 52 min"},
+                        { "sat": "07h", "minuti": "03, 14, 31*, 37, 55* min"},
+                        { "sat": "08h", "minuti": "06, 27*, 37, 59* min"},
+                        { "sat": "09h", "minuti": "09, 31*, 41 min"},
+                        { "sat": "10h", "minuti": "03*, 13, 35*, 45 min"},
+                        { "sat": "11h", "minuti": "07*, 17, 39*, 49 min"},
+                        { "sat": "12h", "minuti": "00, 11*, 20, 37*, 42, 59* min"},
+                        { "sat": "13h", "minuti": "04, 21*, 26, 43*, 48 min"},
+                        { "sat": "14h", "minuti": "05*, 10, 27*, 32, 49*, 54 min"},
+                        { "sat": "15h", "minuti": "08, 27, 38 min"},
+                        { "sat": "16h", "minuti": "05, 22, 44 min"},
+                        { "sat": "17h", "minuti": "09*, 23, 48* min"},
+                        { "sat": "18h", "minuti": "02, 27*, 41 min"},
+                        { "sat": "19h", "minuti": "06*, 37 min"},
+                        { "sat": "20h", "minuti": "06, 38 min"},
+                        { "sat": "21h", "minuti": "10, 42 min"},
+                        { "sat": "22h", "minuti": "15, 46 min"},
+                        { "sat": "23h", "minuti": "18, 50 min"}
+                        
+                    ],
+                    
+                    "dansubota": [
+                        
+                        { "sat": "04h", "minuti": "25, 52 min"},
+                        { "sat": "05h", "minuti": "30, 58 min"},
+                        { "sat": "06h", "minuti": "35 min"},
+                        { "sat": "07h", "minuti": "09, 34, 58 min"},
+                        { "sat": "08h", "minuti": "31*, 48 min"},
+                        { "sat": "09h", "minuti": "21*, 38 min"},
+                        { "sat": "10h", "minuti": "11*, 28 min"},
+                        { "sat": "11h", "minuti": "01*, 18, 41*, 54* min"},
+                        { "sat": "12h", "minuti": "00, 22*, 29, 43, 57 min"},
+                        { "sat": "13h", "minuti": "11, 25, 39, 53 min"},
+                        { "sat": "14h", "minuti": "07, 30, 55 min"},
+                        { "sat": "15h", "minuti": "20, 45 min"},
+                        { "sat": "16h", "minuti": "10, 45 min"},
+                        { "sat": "17h", "minuti": "00, 25, 55 min"},
+                        { "sat": "18h", "minuti": "15, 40 min"},
+                        { "sat": "19h", "minuti": "05, 30 min"},
+                        { "sat": "20h", "minuti": "02, 35 min"},
+                        { "sat": "21h", "minuti": "07, 39 min"},
+                        { "sat": "22h", "minuti": "06, 43 min"},
+                        { "sat": "23h", "minuti": "15, 47 min"}
+                                                   
+                    ],
+                    
+                    "dannedelja": [
+                        
+                        { "sat": "04h", "minuti": "20, 54 min"},
+                        { "sat": "05h", "minuti": "26, 58 min"},
+                        { "sat": "06h", "minuti": "30 min"},
+                        { "sat": "07h", "minuti": "02, 34, 58 min"},
+                        { "sat": "08h", "minuti": "22, 46 min"},
+                        { "sat": "09h", "minuti": "10, 34, 58 min"},
+                        { "sat": "10h", "minuti": "22, 45 min"},
+                        { "sat": "11h", "minuti": "10, 34, 58 min"},
+                        { "sat": "12h", "minuti": "22, 46 min"},
+                        { "sat": "13h", "minuti": "10, 34, 58 min"},
+                        { "sat": "14h", "minuti": "22, 46 min"},
+                        { "sat": "15h", "minuti": "10, 42 min"},
+                        { "sat": "16h", "minuti": "14 min"},
+                        { "sat": "17h", "minuti": "00, 50 min"},
+                        { "sat": "18h", "minuti": "37 min"},
+                        { "sat": "19h", "minuti": "27 min"},
+                        { "sat": "20h", "minuti": "14 min"},
+                        { "sat": "21h", "minuti": "01, 48 min"},
+                        { "sat": "22h", "minuti": "35 min"},
+                        { "sat": "23h", "minuti": "22 min"}
+                        
+                    ]
+                    
+                }
+            
+            },
+            {
+                "linija": "L03: Naselje Ratko Jović - Brzi Brod",
+                "nocniradni": "Noćni polasci: Petak 01:00*, 02:30*",
+                "nocnisubota": "Noćni polasci: Subota 01:00*, 02:30*",
+                "nocninedelja": "Noćni polasci: Nema polazaka",
+                "dodatneinformacije": "*sa Ledene Stene/***svracaju u Lozni Kamen",
+                
+                "satnica":
+                {
+                    "danradni": [
+                        
+                        { "sat": "04h", "minuti": "17, 37, 52*** min"},
+                        { "sat": "05h", "minuti": "07, 17, 25, 38, 53 min"},
+                        { "sat": "06h", "minuti": "08, 19, 30, 41, 52 min"},
+                        { "sat": "07h", "minuti": "03, 14, 31*, 37, 55* min"},
+                        { "sat": "08h", "minuti": "06, 27*, 37, 59* min"},
+                        { "sat": "09h", "minuti": "09, 31*, 41 min"},
+                        { "sat": "10h", "minuti": "03*, 13, 35*, 45 min"},
+                        { "sat": "11h", "minuti": "07*, 17, 39*, 49 min"},
+                        { "sat": "12h", "minuti": "00, 11*, 20, 37*, 42, 59* min"},
+                        { "sat": "13h", "minuti": "04, 21*, 26, 43*, 48 min"},
+                        { "sat": "14h", "minuti": "05*, 10, 27*, 32, 49*, 54 min"},
+                        { "sat": "15h", "minuti": "08, 27, 38 min"},
+                        { "sat": "16h", "minuti": "05, 22, 44 min"},
+                        { "sat": "17h", "minuti": "09*, 23, 48* min"},
+                        { "sat": "18h", "minuti": "02, 27*, 41 min"},
+                        { "sat": "19h", "minuti": "06*, 37 min"},
+                        { "sat": "20h", "minuti": "06, 38 min"},
+                        { "sat": "21h", "minuti": "10, 42 min"},
+                        { "sat": "22h", "minuti": "15, 46 min"},
+                        { "sat": "23h", "minuti": "18, 50 min"}
+                        
+                    ],
+                    
+                    "dansubota": [
+                        
+                        { "sat": "04h", "minuti": "25, 52 min"},
+                        { "sat": "05h", "minuti": "30, 58 min"},
+                        { "sat": "06h", "minuti": "35 min"},
+                        { "sat": "07h", "minuti": "09, 34, 58 min"},
+                        { "sat": "08h", "minuti": "31*, 48 min"},
+                        { "sat": "09h", "minuti": "21*, 38 min"},
+                        { "sat": "10h", "minuti": "11*, 28 min"},
+                        { "sat": "11h", "minuti": "01*, 18, 41*, 54* min"},
+                        { "sat": "12h", "minuti": "00, 22*, 29, 43, 57 min"},
+                        { "sat": "13h", "minuti": "11, 25, 39, 53 min"},
+                        { "sat": "14h", "minuti": "07, 30, 55 min"},
+                        { "sat": "15h", "minuti": "20, 45 min"},
+                        { "sat": "16h", "minuti": "10, 45 min"},
+                        { "sat": "17h", "minuti": "00, 25, 55 min"},
+                        { "sat": "18h", "minuti": "15, 40 min"},
+                        { "sat": "19h", "minuti": "05, 30 min"},
+                        { "sat": "20h", "minuti": "02, 35 min"},
+                        { "sat": "21h", "minuti": "07, 39 min"},
+                        { "sat": "22h", "minuti": "06, 43 min"},
+                        { "sat": "23h", "minuti": "15, 47 min"}
+                                                   
+                    ],
+                    
+                    "dannedelja": [
+                        
+                        { "sat": "04h", "minuti": "20, 54 min"},
+                        { "sat": "05h", "minuti": "26, 58 min"},
+                        { "sat": "06h", "minuti": "30 min"},
+                        { "sat": "07h", "minuti": "02, 34, 58 min"},
+                        { "sat": "08h", "minuti": "22, 46 min"},
+                        { "sat": "09h", "minuti": "10, 34, 58 min"},
+                        { "sat": "10h", "minuti": "22, 45 min"},
+                        { "sat": "11h", "minuti": "10, 34, 58 min"},
+                        { "sat": "12h", "minuti": "22, 46 min"},
+                        { "sat": "13h", "minuti": "10, 34, 58 min"},
+                        { "sat": "14h", "minuti": "22, 46 min"},
+                        { "sat": "15h", "minuti": "10, 42 min"},
+                        { "sat": "16h", "minuti": "14 min"},
+                        { "sat": "17h", "minuti": "00, 50 min"},
+                        { "sat": "18h", "minuti": "37 min"},
+                        { "sat": "19h", "minuti": "27 min"},
+                        { "sat": "20h", "minuti": "14 min"},
+                        { "sat": "21h", "minuti": "01, 48 min"},
+                        { "sat": "22h", "minuti": "35 min"},
+                        { "sat": "23h", "minuti": "22 min"}
+                        
+                    ]
+                    
+                }
+            
+            },
+            {
+                "linija": "L04: Čalije - Bubanj",
+                "nocniradni": "Noćni polasci: Petak 01:00*, 02:30*",
+                "nocnisubota": "Noćni polasci: Subota 01:00*, 02:30*",
+                "nocninedelja": "Noćni polasci: Nema polazaka",
+                "dodatneinformacije": "*sa Ledene Stene/***svracaju u Lozni Kamen",
+                
+                "satnica":
+                {
+                    "danradni": [
+                        
+                        { "sat": "04h", "minuti": "17, 37, 52*** min"},
+                        { "sat": "05h", "minuti": "07, 17, 25, 38, 53 min"},
+                        { "sat": "06h", "minuti": "08, 19, 30, 41, 52 min"},
+                        { "sat": "07h", "minuti": "03, 14, 31*, 37, 55* min"},
+                        { "sat": "08h", "minuti": "06, 27*, 37, 59* min"},
+                        { "sat": "09h", "minuti": "09, 31*, 41 min"},
+                        { "sat": "10h", "minuti": "03*, 13, 35*, 45 min"},
+                        { "sat": "11h", "minuti": "07*, 17, 39*, 49 min"},
+                        { "sat": "12h", "minuti": "00, 11*, 20, 37*, 42, 59* min"},
+                        { "sat": "13h", "minuti": "04, 21*, 26, 43*, 48 min"},
+                        { "sat": "14h", "minuti": "05*, 10, 27*, 32, 49*, 54 min"},
+                        { "sat": "15h", "minuti": "08, 27, 38 min"},
+                        { "sat": "16h", "minuti": "05, 22, 44 min"},
+                        { "sat": "17h", "minuti": "09*, 23, 48* min"},
+                        { "sat": "18h", "minuti": "02, 27*, 41 min"},
+                        { "sat": "19h", "minuti": "06*, 37 min"},
+                        { "sat": "20h", "minuti": "06, 38 min"},
+                        { "sat": "21h", "minuti": "10, 42 min"},
+                        { "sat": "22h", "minuti": "15, 46 min"},
+                        { "sat": "23h", "minuti": "18, 50 min"}
+                        
+                    ],
+                    
+                    "dansubota": [
+                        
+                        { "sat": "04h", "minuti": "25, 52 min"},
+                        { "sat": "05h", "minuti": "30, 58 min"},
+                        { "sat": "06h", "minuti": "35 min"},
+                        { "sat": "07h", "minuti": "09, 34, 58 min"},
+                        { "sat": "08h", "minuti": "31*, 48 min"},
+                        { "sat": "09h", "minuti": "21*, 38 min"},
+                        { "sat": "10h", "minuti": "11*, 28 min"},
+                        { "sat": "11h", "minuti": "01*, 18, 41*, 54* min"},
+                        { "sat": "12h", "minuti": "00, 22*, 29, 43, 57 min"},
+                        { "sat": "13h", "minuti": "11, 25, 39, 53 min"},
+                        { "sat": "14h", "minuti": "07, 30, 55 min"},
+                        { "sat": "15h", "minuti": "20, 45 min"},
+                        { "sat": "16h", "minuti": "10, 45 min"},
+                        { "sat": "17h", "minuti": "00, 25, 55 min"},
+                        { "sat": "18h", "minuti": "15, 40 min"},
+                        { "sat": "19h", "minuti": "05, 30 min"},
+                        { "sat": "20h", "minuti": "02, 35 min"},
+                        { "sat": "21h", "minuti": "07, 39 min"},
+                        { "sat": "22h", "minuti": "06, 43 min"},
+                        { "sat": "23h", "minuti": "15, 47 min"}
+                                                   
+                    ],
+                    
+                    "dannedelja": [
+                        
+                        { "sat": "04h", "minuti": "20, 54 min"},
+                        { "sat": "05h", "minuti": "26, 58 min"},
+                        { "sat": "06h", "minuti": "30 min"},
+                        { "sat": "07h", "minuti": "02, 34, 58 min"},
+                        { "sat": "08h", "minuti": "22, 46 min"},
+                        { "sat": "09h", "minuti": "10, 34, 58 min"},
+                        { "sat": "10h", "minuti": "22, 45 min"},
+                        { "sat": "11h", "minuti": "10, 34, 58 min"},
+                        { "sat": "12h", "minuti": "22, 46 min"},
+                        { "sat": "13h", "minuti": "10, 34, 58 min"},
+                        { "sat": "14h", "minuti": "22, 46 min"},
+                        { "sat": "15h", "minuti": "10, 42 min"},
+                        { "sat": "16h", "minuti": "14 min"},
+                        { "sat": "17h", "minuti": "00, 50 min"},
+                        { "sat": "18h", "minuti": "37 min"},
+                        { "sat": "19h", "minuti": "27 min"},
+                        { "sat": "20h", "minuti": "14 min"},
+                        { "sat": "21h", "minuti": "01, 48 min"},
+                        { "sat": "22h", "minuti": "35 min"},
+                        { "sat": "23h", "minuti": "22 min"}
+                        
+                    ]
+                    
+                }
+            
+            },
+            {
+                "linija": "L04: Bubanj - Čalije",
+                "nocniradni": "Noćni polasci: Petak 01:00*, 02:30*",
+                "nocnisubota": "Noćni polasci: Subota 01:00*, 02:30*",
+                "nocninedelja": "Noćni polasci: Nema polazaka",
+                "dodatneinformacije": "*sa Ledene Stene/***svracaju u Lozni Kamen",
+                
+                "satnica":
+                {
+                    "danradni": [
+                        
+                        { "sat": "04h", "minuti": "17, 37, 52*** min"},
+                        { "sat": "05h", "minuti": "07, 17, 25, 38, 53 min"},
+                        { "sat": "06h", "minuti": "08, 19, 30, 41, 52 min"},
+                        { "sat": "07h", "minuti": "03, 14, 31*, 37, 55* min"},
+                        { "sat": "08h", "minuti": "06, 27*, 37, 59* min"},
+                        { "sat": "09h", "minuti": "09, 31*, 41 min"},
+                        { "sat": "10h", "minuti": "03*, 13, 35*, 45 min"},
+                        { "sat": "11h", "minuti": "07*, 17, 39*, 49 min"},
+                        { "sat": "12h", "minuti": "00, 11*, 20, 37*, 42, 59* min"},
+                        { "sat": "13h", "minuti": "04, 21*, 26, 43*, 48 min"},
+                        { "sat": "14h", "minuti": "05*, 10, 27*, 32, 49*, 54 min"},
+                        { "sat": "15h", "minuti": "08, 27, 38 min"},
+                        { "sat": "16h", "minuti": "05, 22, 44 min"},
+                        { "sat": "17h", "minuti": "09*, 23, 48* min"},
+                        { "sat": "18h", "minuti": "02, 27*, 41 min"},
+                        { "sat": "19h", "minuti": "06*, 37 min"},
+                        { "sat": "20h", "minuti": "06, 38 min"},
+                        { "sat": "21h", "minuti": "10, 42 min"},
+                        { "sat": "22h", "minuti": "15, 46 min"},
+                        { "sat": "23h", "minuti": "18, 50 min"}
+                        
+                    ],
+                    
+                    "dansubota": [
+                        
+                        { "sat": "04h", "minuti": "25, 52 min"},
+                        { "sat": "05h", "minuti": "30, 58 min"},
+                        { "sat": "06h", "minuti": "35 min"},
+                        { "sat": "07h", "minuti": "09, 34, 58 min"},
+                        { "sat": "08h", "minuti": "31*, 48 min"},
+                        { "sat": "09h", "minuti": "21*, 38 min"},
+                        { "sat": "10h", "minuti": "11*, 28 min"},
+                        { "sat": "11h", "minuti": "01*, 18, 41*, 54* min"},
+                        { "sat": "12h", "minuti": "00, 22*, 29, 43, 57 min"},
+                        { "sat": "13h", "minuti": "11, 25, 39, 53 min"},
+                        { "sat": "14h", "minuti": "07, 30, 55 min"},
+                        { "sat": "15h", "minuti": "20, 45 min"},
+                        { "sat": "16h", "minuti": "10, 45 min"},
+                        { "sat": "17h", "minuti": "00, 25, 55 min"},
+                        { "sat": "18h", "minuti": "15, 40 min"},
+                        { "sat": "19h", "minuti": "05, 30 min"},
+                        { "sat": "20h", "minuti": "02, 35 min"},
+                        { "sat": "21h", "minuti": "07, 39 min"},
+                        { "sat": "22h", "minuti": "06, 43 min"},
+                        { "sat": "23h", "minuti": "15, 47 min"}
+                                                   
+                    ],
+                    
+                    "dannedelja": [
+                        
+                        { "sat": "04h", "minuti": "20, 54 min"},
+                        { "sat": "05h", "minuti": "26, 58 min"},
+                        { "sat": "06h", "minuti": "30 min"},
+                        { "sat": "07h", "minuti": "02, 34, 58 min"},
+                        { "sat": "08h", "minuti": "22, 46 min"},
+                        { "sat": "09h", "minuti": "10, 34, 58 min"},
+                        { "sat": "10h", "minuti": "22, 45 min"},
+                        { "sat": "11h", "minuti": "10, 34, 58 min"},
+                        { "sat": "12h", "minuti": "22, 46 min"},
+                        { "sat": "13h", "minuti": "10, 34, 58 min"},
+                        { "sat": "14h", "minuti": "22, 46 min"},
+                        { "sat": "15h", "minuti": "10, 42 min"},
+                        { "sat": "16h", "minuti": "14 min"},
+                        { "sat": "17h", "minuti": "00, 50 min"},
+                        { "sat": "18h", "minuti": "37 min"},
+                        { "sat": "19h", "minuti": "27 min"},
+                        { "sat": "20h", "minuti": "14 min"},
+                        { "sat": "21h", "minuti": "01, 48 min"},
+                        { "sat": "22h", "minuti": "35 min"},
+                        { "sat": "23h", "minuti": "22 min"}
+                        
+                    ]
+                    
+                }
+            
+            },
+            {
+                "linija": "L05: Železnička stanica - Somborska",
+                "nocniradni": "Noćni polasci: Petak 01:00*, 02:30*",
+                "nocnisubota": "Noćni polasci: Subota 01:00*, 02:30*",
+                "nocninedelja": "Noćni polasci: Nema polazaka",
+                "dodatneinformacije": "*sa Ledene Stene/***svracaju u Lozni Kamen",
+                
+                "satnica":
+                {
+                    "danradni": [
+                        
+                        { "sat": "04h", "minuti": "17, 37, 52*** min"},
+                        { "sat": "05h", "minuti": "07, 17, 25, 38, 53 min"},
+                        { "sat": "06h", "minuti": "08, 19, 30, 41, 52 min"},
+                        { "sat": "07h", "minuti": "03, 14, 31*, 37, 55* min"},
+                        { "sat": "08h", "minuti": "06, 27*, 37, 59* min"},
+                        { "sat": "09h", "minuti": "09, 31*, 41 min"},
+                        { "sat": "10h", "minuti": "03*, 13, 35*, 45 min"},
+                        { "sat": "11h", "minuti": "07*, 17, 39*, 49 min"},
+                        { "sat": "12h", "minuti": "00, 11*, 20, 37*, 42, 59* min"},
+                        { "sat": "13h", "minuti": "04, 21*, 26, 43*, 48 min"},
+                        { "sat": "14h", "minuti": "05*, 10, 27*, 32, 49*, 54 min"},
+                        { "sat": "15h", "minuti": "08, 27, 38 min"},
+                        { "sat": "16h", "minuti": "05, 22, 44 min"},
+                        { "sat": "17h", "minuti": "09*, 23, 48* min"},
+                        { "sat": "18h", "minuti": "02, 27*, 41 min"},
+                        { "sat": "19h", "minuti": "06*, 37 min"},
+                        { "sat": "20h", "minuti": "06, 38 min"},
+                        { "sat": "21h", "minuti": "10, 42 min"},
+                        { "sat": "22h", "minuti": "15, 46 min"},
+                        { "sat": "23h", "minuti": "18, 50 min"}
+                        
+                    ],
+                    
+                    "dansubota": [
+                        
+                        { "sat": "04h", "minuti": "25, 52 min"},
+                        { "sat": "05h", "minuti": "30, 58 min"},
+                        { "sat": "06h", "minuti": "35 min"},
+                        { "sat": "07h", "minuti": "09, 34, 58 min"},
+                        { "sat": "08h", "minuti": "31*, 48 min"},
+                        { "sat": "09h", "minuti": "21*, 38 min"},
+                        { "sat": "10h", "minuti": "11*, 28 min"},
+                        { "sat": "11h", "minuti": "01*, 18, 41*, 54* min"},
+                        { "sat": "12h", "minuti": "00, 22*, 29, 43, 57 min"},
+                        { "sat": "13h", "minuti": "11, 25, 39, 53 min"},
+                        { "sat": "14h", "minuti": "07, 30, 55 min"},
+                        { "sat": "15h", "minuti": "20, 45 min"},
+                        { "sat": "16h", "minuti": "10, 45 min"},
+                        { "sat": "17h", "minuti": "00, 25, 55 min"},
+                        { "sat": "18h", "minuti": "15, 40 min"},
+                        { "sat": "19h", "minuti": "05, 30 min"},
+                        { "sat": "20h", "minuti": "02, 35 min"},
+                        { "sat": "21h", "minuti": "07, 39 min"},
+                        { "sat": "22h", "minuti": "06, 43 min"},
+                        { "sat": "23h", "minuti": "15, 47 min"}
+                                                   
+                    ],
+                    
+                    "dannedelja": [
+                        
+                        { "sat": "04h", "minuti": "20, 54 min"},
+                        { "sat": "05h", "minuti": "26, 58 min"},
+                        { "sat": "06h", "minuti": "30 min"},
+                        { "sat": "07h", "minuti": "02, 34, 58 min"},
+                        { "sat": "08h", "minuti": "22, 46 min"},
+                        { "sat": "09h", "minuti": "10, 34, 58 min"},
+                        { "sat": "10h", "minuti": "22, 45 min"},
+                        { "sat": "11h", "minuti": "10, 34, 58 min"},
+                        { "sat": "12h", "minuti": "22, 46 min"},
+                        { "sat": "13h", "minuti": "10, 34, 58 min"},
+                        { "sat": "14h", "minuti": "22, 46 min"},
+                        { "sat": "15h", "minuti": "10, 42 min"},
+                        { "sat": "16h", "minuti": "14 min"},
+                        { "sat": "17h", "minuti": "00, 50 min"},
+                        { "sat": "18h", "minuti": "37 min"},
+                        { "sat": "19h", "minuti": "27 min"},
+                        { "sat": "20h", "minuti": "14 min"},
+                        { "sat": "21h", "minuti": "01, 48 min"},
+                        { "sat": "22h", "minuti": "35 min"},
+                        { "sat": "23h", "minuti": "22 min"}
+                        
+                    ]
+                    
+                }
+            
+            },
+            {
+                "linija": "L05: Somborska - Železnička stanica",
+                "nocniradni": "Noćni polasci: Petak 01:00*, 02:30*",
+                "nocnisubota": "Noćni polasci: Subota 01:00*, 02:30*",
+                "nocninedelja": "Noćni polasci: Nema polazaka",
+                "dodatneinformacije": "*sa Ledene Stene/***svracaju u Lozni Kamen",
+                
+                "satnica":
+                {
+                    "danradni": [
+                        
+                        { "sat": "04h", "minuti": "17, 37, 52*** min"},
+                        { "sat": "05h", "minuti": "07, 17, 25, 38, 53 min"},
+                        { "sat": "06h", "minuti": "08, 19, 30, 41, 52 min"},
+                        { "sat": "07h", "minuti": "03, 14, 31*, 37, 55* min"},
+                        { "sat": "08h", "minuti": "06, 27*, 37, 59* min"},
+                        { "sat": "09h", "minuti": "09, 31*, 41 min"},
+                        { "sat": "10h", "minuti": "03*, 13, 35*, 45 min"},
+                        { "sat": "11h", "minuti": "07*, 17, 39*, 49 min"},
+                        { "sat": "12h", "minuti": "00, 11*, 20, 37*, 42, 59* min"},
+                        { "sat": "13h", "minuti": "04, 21*, 26, 43*, 48 min"},
+                        { "sat": "14h", "minuti": "05*, 10, 27*, 32, 49*, 54 min"},
+                        { "sat": "15h", "minuti": "08, 27, 38 min"},
+                        { "sat": "16h", "minuti": "05, 22, 44 min"},
+                        { "sat": "17h", "minuti": "09*, 23, 48* min"},
+                        { "sat": "18h", "minuti": "02, 27*, 41 min"},
+                        { "sat": "19h", "minuti": "06*, 37 min"},
+                        { "sat": "20h", "minuti": "06, 38 min"},
+                        { "sat": "21h", "minuti": "10, 42 min"},
+                        { "sat": "22h", "minuti": "15, 46 min"},
+                        { "sat": "23h", "minuti": "18, 50 min"}
+                        
+                    ],
+                    
+                    "dansubota": [
+                        
+                        { "sat": "04h", "minuti": "25, 52 min"},
+                        { "sat": "05h", "minuti": "30, 58 min"},
+                        { "sat": "06h", "minuti": "35 min"},
+                        { "sat": "07h", "minuti": "09, 34, 58 min"},
+                        { "sat": "08h", "minuti": "31*, 48 min"},
+                        { "sat": "09h", "minuti": "21*, 38 min"},
+                        { "sat": "10h", "minuti": "11*, 28 min"},
+                        { "sat": "11h", "minuti": "01*, 18, 41*, 54* min"},
+                        { "sat": "12h", "minuti": "00, 22*, 29, 43, 57 min"},
+                        { "sat": "13h", "minuti": "11, 25, 39, 53 min"},
+                        { "sat": "14h", "minuti": "07, 30, 55 min"},
+                        { "sat": "15h", "minuti": "20, 45 min"},
+                        { "sat": "16h", "minuti": "10, 45 min"},
+                        { "sat": "17h", "minuti": "00, 25, 55 min"},
+                        { "sat": "18h", "minuti": "15, 40 min"},
+                        { "sat": "19h", "minuti": "05, 30 min"},
+                        { "sat": "20h", "minuti": "02, 35 min"},
+                        { "sat": "21h", "minuti": "07, 39 min"},
+                        { "sat": "22h", "minuti": "06, 43 min"},
+                        { "sat": "23h", "minuti": "15, 47 min"}
+                                                   
+                    ],
+                    
+                    "dannedelja": [
+                        
+                        { "sat": "04h", "minuti": "20, 54 min"},
+                        { "sat": "05h", "minuti": "26, 58 min"},
+                        { "sat": "06h", "minuti": "30 min"},
+                        { "sat": "07h", "minuti": "02, 34, 58 min"},
+                        { "sat": "08h", "minuti": "22, 46 min"},
+                        { "sat": "09h", "minuti": "10, 34, 58 min"},
+                        { "sat": "10h", "minuti": "22, 45 min"},
+                        { "sat": "11h", "minuti": "10, 34, 58 min"},
+                        { "sat": "12h", "minuti": "22, 46 min"},
+                        { "sat": "13h", "minuti": "10, 34, 58 min"},
+                        { "sat": "14h", "minuti": "22, 46 min"},
+                        { "sat": "15h", "minuti": "10, 42 min"},
+                        { "sat": "16h", "minuti": "14 min"},
+                        { "sat": "17h", "minuti": "00, 50 min"},
+                        { "sat": "18h", "minuti": "37 min"},
+                        { "sat": "19h", "minuti": "27 min"},
+                        { "sat": "20h", "minuti": "14 min"},
+                        { "sat": "21h", "minuti": "01, 48 min"},
+                        { "sat": "22h", "minuti": "35 min"},
+                        { "sat": "23h", "minuti": "22 min"}
+                        
+                    ]
+                    
+                }
+            
+            },
+            {
+                "linija": "L06: Žel. Stanica - Duvanište - Skopska",
+                "nocniradni": "Noćni polasci: Petak 01:00*, 02:30*",
+                "nocnisubota": "Noćni polasci: Subota 01:00*, 02:30*",
+                "nocninedelja": "Noćni polasci: Nema polazaka",
+                "dodatneinformacije": "*sa Ledene Stene/***svracaju u Lozni Kamen",
+                
+                "satnica":
+                {
+                    "danradni": [
+                        
+                        { "sat": "04h", "minuti": "17, 37, 52*** min"},
+                        { "sat": "05h", "minuti": "07, 17, 25, 38, 53 min"},
+                        { "sat": "06h", "minuti": "08, 19, 30, 41, 52 min"},
+                        { "sat": "07h", "minuti": "03, 14, 31*, 37, 55* min"},
+                        { "sat": "08h", "minuti": "06, 27*, 37, 59* min"},
+                        { "sat": "09h", "minuti": "09, 31*, 41 min"},
+                        { "sat": "10h", "minuti": "03*, 13, 35*, 45 min"},
+                        { "sat": "11h", "minuti": "07*, 17, 39*, 49 min"},
+                        { "sat": "12h", "minuti": "00, 11*, 20, 37*, 42, 59* min"},
+                        { "sat": "13h", "minuti": "04, 21*, 26, 43*, 48 min"},
+                        { "sat": "14h", "minuti": "05*, 10, 27*, 32, 49*, 54 min"},
+                        { "sat": "15h", "minuti": "08, 27, 38 min"},
+                        { "sat": "16h", "minuti": "05, 22, 44 min"},
+                        { "sat": "17h", "minuti": "09*, 23, 48* min"},
+                        { "sat": "18h", "minuti": "02, 27*, 41 min"},
+                        { "sat": "19h", "minuti": "06*, 37 min"},
+                        { "sat": "20h", "minuti": "06, 38 min"},
+                        { "sat": "21h", "minuti": "10, 42 min"},
+                        { "sat": "22h", "minuti": "15, 46 min"},
+                        { "sat": "23h", "minuti": "18, 50 min"}
+                        
+                    ],
+                    
+                    "dansubota": [
+                        
+                        { "sat": "04h", "minuti": "25, 52 min"},
+                        { "sat": "05h", "minuti": "30, 58 min"},
+                        { "sat": "06h", "minuti": "35 min"},
+                        { "sat": "07h", "minuti": "09, 34, 58 min"},
+                        { "sat": "08h", "minuti": "31*, 48 min"},
+                        { "sat": "09h", "minuti": "21*, 38 min"},
+                        { "sat": "10h", "minuti": "11*, 28 min"},
+                        { "sat": "11h", "minuti": "01*, 18, 41*, 54* min"},
+                        { "sat": "12h", "minuti": "00, 22*, 29, 43, 57 min"},
+                        { "sat": "13h", "minuti": "11, 25, 39, 53 min"},
+                        { "sat": "14h", "minuti": "07, 30, 55 min"},
+                        { "sat": "15h", "minuti": "20, 45 min"},
+                        { "sat": "16h", "minuti": "10, 45 min"},
+                        { "sat": "17h", "minuti": "00, 25, 55 min"},
+                        { "sat": "18h", "minuti": "15, 40 min"},
+                        { "sat": "19h", "minuti": "05, 30 min"},
+                        { "sat": "20h", "minuti": "02, 35 min"},
+                        { "sat": "21h", "minuti": "07, 39 min"},
+                        { "sat": "22h", "minuti": "06, 43 min"},
+                        { "sat": "23h", "minuti": "15, 47 min"}
+                                                   
+                    ],
+                    
+                    "dannedelja": [
+                        
+                        { "sat": "04h", "minuti": "20, 54 min"},
+                        { "sat": "05h", "minuti": "26, 58 min"},
+                        { "sat": "06h", "minuti": "30 min"},
+                        { "sat": "07h", "minuti": "02, 34, 58 min"},
+                        { "sat": "08h", "minuti": "22, 46 min"},
+                        { "sat": "09h", "minuti": "10, 34, 58 min"},
+                        { "sat": "10h", "minuti": "22, 45 min"},
+                        { "sat": "11h", "minuti": "10, 34, 58 min"},
+                        { "sat": "12h", "minuti": "22, 46 min"},
+                        { "sat": "13h", "minuti": "10, 34, 58 min"},
+                        { "sat": "14h", "minuti": "22, 46 min"},
+                        { "sat": "15h", "minuti": "10, 42 min"},
+                        { "sat": "16h", "minuti": "14 min"},
+                        { "sat": "17h", "minuti": "00, 50 min"},
+                        { "sat": "18h", "minuti": "37 min"},
+                        { "sat": "19h", "minuti": "27 min"},
+                        { "sat": "20h", "minuti": "14 min"},
+                        { "sat": "21h", "minuti": "01, 48 min"},
+                        { "sat": "22h", "minuti": "35 min"},
+                        { "sat": "23h", "minuti": "22 min"}
+                        
+                    ]
+                    
+                }
+            
+            },
+            {
+                "linija": "L06: Skopska - Duvanište - Žel. Stanica",
+                "nocniradni": "Noćni polasci: Petak 01:00*, 02:30*",
+                "nocnisubota": "Noćni polasci: Subota 01:00*, 02:30*",
+                "nocninedelja": "Noćni polasci: Nema polazaka",
+                "dodatneinformacije": "*sa Ledene Stene/***svracaju u Lozni Kamen",
+                
+                "satnica":
+                {
+                    "danradni": [
+                        
+                        { "sat": "04h", "minuti": "17, 37, 52*** min"},
+                        { "sat": "05h", "minuti": "07, 17, 25, 38, 53 min"},
+                        { "sat": "06h", "minuti": "08, 19, 30, 41, 52 min"},
+                        { "sat": "07h", "minuti": "03, 14, 31*, 37, 55* min"},
+                        { "sat": "08h", "minuti": "06, 27*, 37, 59* min"},
+                        { "sat": "09h", "minuti": "09, 31*, 41 min"},
+                        { "sat": "10h", "minuti": "03*, 13, 35*, 45 min"},
+                        { "sat": "11h", "minuti": "07*, 17, 39*, 49 min"},
+                        { "sat": "12h", "minuti": "00, 11*, 20, 37*, 42, 59* min"},
+                        { "sat": "13h", "minuti": "04, 21*, 26, 43*, 48 min"},
+                        { "sat": "14h", "minuti": "05*, 10, 27*, 32, 49*, 54 min"},
+                        { "sat": "15h", "minuti": "08, 27, 38 min"},
+                        { "sat": "16h", "minuti": "05, 22, 44 min"},
+                        { "sat": "17h", "minuti": "09*, 23, 48* min"},
+                        { "sat": "18h", "minuti": "02, 27*, 41 min"},
+                        { "sat": "19h", "minuti": "06*, 37 min"},
+                        { "sat": "20h", "minuti": "06, 38 min"},
+                        { "sat": "21h", "minuti": "10, 42 min"},
+                        { "sat": "22h", "minuti": "15, 46 min"},
+                        { "sat": "23h", "minuti": "18, 50 min"}
+                        
+                    ],
+                    
+                    "dansubota": [
+                        
+                        { "sat": "04h", "minuti": "25, 52 min"},
+                        { "sat": "05h", "minuti": "30, 58 min"},
+                        { "sat": "06h", "minuti": "35 min"},
+                        { "sat": "07h", "minuti": "09, 34, 58 min"},
+                        { "sat": "08h", "minuti": "31*, 48 min"},
+                        { "sat": "09h", "minuti": "21*, 38 min"},
+                        { "sat": "10h", "minuti": "11*, 28 min"},
+                        { "sat": "11h", "minuti": "01*, 18, 41*, 54* min"},
+                        { "sat": "12h", "minuti": "00, 22*, 29, 43, 57 min"},
+                        { "sat": "13h", "minuti": "11, 25, 39, 53 min"},
+                        { "sat": "14h", "minuti": "07, 30, 55 min"},
+                        { "sat": "15h", "minuti": "20, 45 min"},
+                        { "sat": "16h", "minuti": "10, 45 min"},
+                        { "sat": "17h", "minuti": "00, 25, 55 min"},
+                        { "sat": "18h", "minuti": "15, 40 min"},
+                        { "sat": "19h", "minuti": "05, 30 min"},
+                        { "sat": "20h", "minuti": "02, 35 min"},
+                        { "sat": "21h", "minuti": "07, 39 min"},
+                        { "sat": "22h", "minuti": "06, 43 min"},
+                        { "sat": "23h", "minuti": "15, 47 min"}
+                                                   
+                    ],
+                    
+                    "dannedelja": [
+                        
+                        { "sat": "04h", "minuti": "20, 54 min"},
+                        { "sat": "05h", "minuti": "26, 58 min"},
+                        { "sat": "06h", "minuti": "30 min"},
+                        { "sat": "07h", "minuti": "02, 34, 58 min"},
+                        { "sat": "08h", "minuti": "22, 46 min"},
+                        { "sat": "09h", "minuti": "10, 34, 58 min"},
+                        { "sat": "10h", "minuti": "22, 45 min"},
+                        { "sat": "11h", "minuti": "10, 34, 58 min"},
+                        { "sat": "12h", "minuti": "22, 46 min"},
+                        { "sat": "13h", "minuti": "10, 34, 58 min"},
+                        { "sat": "14h", "minuti": "22, 46 min"},
+                        { "sat": "15h", "minuti": "10, 42 min"},
+                        { "sat": "16h", "minuti": "14 min"},
+                        { "sat": "17h", "minuti": "00, 50 min"},
+                        { "sat": "18h", "minuti": "37 min"},
+                        { "sat": "19h", "minuti": "27 min"},
+                        { "sat": "20h", "minuti": "14 min"},
+                        { "sat": "21h", "minuti": "01, 48 min"},
+                        { "sat": "22h", "minuti": "35 min"},
+                        { "sat": "23h", "minuti": "22 min"}
+                        
+                    ]
+                    
+                }
+            
+            },
+            {
+                "linija": "L07: Sarajevska - Kalač Brdo",
+                "nocniradni": "Noćni polasci: Petak 01:00*, 02:30*",
+                "nocnisubota": "Noćni polasci: Subota 01:00*, 02:30*",
+                "nocninedelja": "Noćni polasci: Nema polazaka",
+                "dodatneinformacije": "*sa Ledene Stene/***svracaju u Lozni Kamen",
+                
+                "satnica":
+                {
+                    "danradni": [
+                        
+                        { "sat": "04h", "minuti": "17, 37, 52*** min"},
+                        { "sat": "05h", "minuti": "07, 17, 25, 38, 53 min"},
+                        { "sat": "06h", "minuti": "08, 19, 30, 41, 52 min"},
+                        { "sat": "07h", "minuti": "03, 14, 31*, 37, 55* min"},
+                        { "sat": "08h", "minuti": "06, 27*, 37, 59* min"},
+                        { "sat": "09h", "minuti": "09, 31*, 41 min"},
+                        { "sat": "10h", "minuti": "03*, 13, 35*, 45 min"},
+                        { "sat": "11h", "minuti": "07*, 17, 39*, 49 min"},
+                        { "sat": "12h", "minuti": "00, 11*, 20, 37*, 42, 59* min"},
+                        { "sat": "13h", "minuti": "04, 21*, 26, 43*, 48 min"},
+                        { "sat": "14h", "minuti": "05*, 10, 27*, 32, 49*, 54 min"},
+                        { "sat": "15h", "minuti": "08, 27, 38 min"},
+                        { "sat": "16h", "minuti": "05, 22, 44 min"},
+                        { "sat": "17h", "minuti": "09*, 23, 48* min"},
+                        { "sat": "18h", "minuti": "02, 27*, 41 min"},
+                        { "sat": "19h", "minuti": "06*, 37 min"},
+                        { "sat": "20h", "minuti": "06, 38 min"},
+                        { "sat": "21h", "minuti": "10, 42 min"},
+                        { "sat": "22h", "minuti": "15, 46 min"},
+                        { "sat": "23h", "minuti": "18, 50 min"}
+                        
+                    ],
+                    
+                    "dansubota": [
+                        
+                        { "sat": "04h", "minuti": "25, 52 min"},
+                        { "sat": "05h", "minuti": "30, 58 min"},
+                        { "sat": "06h", "minuti": "35 min"},
+                        { "sat": "07h", "minuti": "09, 34, 58 min"},
+                        { "sat": "08h", "minuti": "31*, 48 min"},
+                        { "sat": "09h", "minuti": "21*, 38 min"},
+                        { "sat": "10h", "minuti": "11*, 28 min"},
+                        { "sat": "11h", "minuti": "01*, 18, 41*, 54* min"},
+                        { "sat": "12h", "minuti": "00, 22*, 29, 43, 57 min"},
+                        { "sat": "13h", "minuti": "11, 25, 39, 53 min"},
+                        { "sat": "14h", "minuti": "07, 30, 55 min"},
+                        { "sat": "15h", "minuti": "20, 45 min"},
+                        { "sat": "16h", "minuti": "10, 45 min"},
+                        { "sat": "17h", "minuti": "00, 25, 55 min"},
+                        { "sat": "18h", "minuti": "15, 40 min"},
+                        { "sat": "19h", "minuti": "05, 30 min"},
+                        { "sat": "20h", "minuti": "02, 35 min"},
+                        { "sat": "21h", "minuti": "07, 39 min"},
+                        { "sat": "22h", "minuti": "06, 43 min"},
+                        { "sat": "23h", "minuti": "15, 47 min"}
+                                                   
+                    ],
+                    
+                    "dannedelja": [
+                        
+                        { "sat": "04h", "minuti": "20, 54 min"},
+                        { "sat": "05h", "minuti": "26, 58 min"},
+                        { "sat": "06h", "minuti": "30 min"},
+                        { "sat": "07h", "minuti": "02, 34, 58 min"},
+                        { "sat": "08h", "minuti": "22, 46 min"},
+                        { "sat": "09h", "minuti": "10, 34, 58 min"},
+                        { "sat": "10h", "minuti": "22, 45 min"},
+                        { "sat": "11h", "minuti": "10, 34, 58 min"},
+                        { "sat": "12h", "minuti": "22, 46 min"},
+                        { "sat": "13h", "minuti": "10, 34, 58 min"},
+                        { "sat": "14h", "minuti": "22, 46 min"},
+                        { "sat": "15h", "minuti": "10, 42 min"},
+                        { "sat": "16h", "minuti": "14 min"},
+                        { "sat": "17h", "minuti": "00, 50 min"},
+                        { "sat": "18h", "minuti": "37 min"},
+                        { "sat": "19h", "minuti": "27 min"},
+                        { "sat": "20h", "minuti": "14 min"},
+                        { "sat": "21h", "minuti": "01, 48 min"},
+                        { "sat": "22h", "minuti": "35 min"},
+                        { "sat": "23h", "minuti": "22 min"}
+                        
+                    ]
+                    
+                }
+            
+            },
+            {
+                "linija": "L07: Kalač Brdo - Sarajevska",
+                "nocniradni": "Noćni polasci: Petak 01:00*, 02:30*",
+                "nocnisubota": "Noćni polasci: Subota 01:00*, 02:30*",
+                "nocninedelja": "Noćni polasci: Nema polazaka",
+                "dodatneinformacije": "*sa Ledene Stene/***svracaju u Lozni Kamen",
+                
+                "satnica":
+                {
+                    "danradni": [
+                        
+                        { "sat": "04h", "minuti": "17, 37, 52*** min"},
+                        { "sat": "05h", "minuti": "07, 17, 25, 38, 53 min"},
+                        { "sat": "06h", "minuti": "08, 19, 30, 41, 52 min"},
+                        { "sat": "07h", "minuti": "03, 14, 31*, 37, 55* min"},
+                        { "sat": "08h", "minuti": "06, 27*, 37, 59* min"},
+                        { "sat": "09h", "minuti": "09, 31*, 41 min"},
+                        { "sat": "10h", "minuti": "03*, 13, 35*, 45 min"},
+                        { "sat": "11h", "minuti": "07*, 17, 39*, 49 min"},
+                        { "sat": "12h", "minuti": "00, 11*, 20, 37*, 42, 59* min"},
+                        { "sat": "13h", "minuti": "04, 21*, 26, 43*, 48 min"},
+                        { "sat": "14h", "minuti": "05*, 10, 27*, 32, 49*, 54 min"},
+                        { "sat": "15h", "minuti": "08, 27, 38 min"},
+                        { "sat": "16h", "minuti": "05, 22, 44 min"},
+                        { "sat": "17h", "minuti": "09*, 23, 48* min"},
+                        { "sat": "18h", "minuti": "02, 27*, 41 min"},
+                        { "sat": "19h", "minuti": "06*, 37 min"},
+                        { "sat": "20h", "minuti": "06, 38 min"},
+                        { "sat": "21h", "minuti": "10, 42 min"},
+                        { "sat": "22h", "minuti": "15, 46 min"},
+                        { "sat": "23h", "minuti": "18, 50 min"}
+                        
+                    ],
+                    
+                    "dansubota": [
+                        
+                        { "sat": "04h", "minuti": "25, 52 min"},
+                        { "sat": "05h", "minuti": "30, 58 min"},
+                        { "sat": "06h", "minuti": "35 min"},
+                        { "sat": "07h", "minuti": "09, 34, 58 min"},
+                        { "sat": "08h", "minuti": "31*, 48 min"},
+                        { "sat": "09h", "minuti": "21*, 38 min"},
+                        { "sat": "10h", "minuti": "11*, 28 min"},
+                        { "sat": "11h", "minuti": "01*, 18, 41*, 54* min"},
+                        { "sat": "12h", "minuti": "00, 22*, 29, 43, 57 min"},
+                        { "sat": "13h", "minuti": "11, 25, 39, 53 min"},
+                        { "sat": "14h", "minuti": "07, 30, 55 min"},
+                        { "sat": "15h", "minuti": "20, 45 min"},
+                        { "sat": "16h", "minuti": "10, 45 min"},
+                        { "sat": "17h", "minuti": "00, 25, 55 min"},
+                        { "sat": "18h", "minuti": "15, 40 min"},
+                        { "sat": "19h", "minuti": "05, 30 min"},
+                        { "sat": "20h", "minuti": "02, 35 min"},
+                        { "sat": "21h", "minuti": "07, 39 min"},
+                        { "sat": "22h", "minuti": "06, 43 min"},
+                        { "sat": "23h", "minuti": "15, 47 min"}
+                                                   
+                    ],
+                    
+                    "dannedelja": [
+                        
+                        { "sat": "04h", "minuti": "20, 54 min"},
+                        { "sat": "05h", "minuti": "26, 58 min"},
+                        { "sat": "06h", "minuti": "30 min"},
+                        { "sat": "07h", "minuti": "02, 34, 58 min"},
+                        { "sat": "08h", "minuti": "22, 46 min"},
+                        { "sat": "09h", "minuti": "10, 34, 58 min"},
+                        { "sat": "10h", "minuti": "22, 45 min"},
+                        { "sat": "11h", "minuti": "10, 34, 58 min"},
+                        { "sat": "12h", "minuti": "22, 46 min"},
+                        { "sat": "13h", "minuti": "10, 34, 58 min"},
+                        { "sat": "14h", "minuti": "22, 46 min"},
+                        { "sat": "15h", "minuti": "10, 42 min"},
+                        { "sat": "16h", "minuti": "14 min"},
+                        { "sat": "17h", "minuti": "00, 50 min"},
+                        { "sat": "18h", "minuti": "37 min"},
+                        { "sat": "19h", "minuti": "27 min"},
+                        { "sat": "20h", "minuti": "14 min"},
+                        { "sat": "21h", "minuti": "01, 48 min"},
+                        { "sat": "22h", "minuti": "35 min"},
+                        { "sat": "23h", "minuti": "22 min"}
+                        
+                    ]
+                    
+                }
+            
+            },
+            {
+                "linija": "L08: Gabr. Reka (Pasi Poljana) - N. Groblje",
+                "nocniradni": "Noćni polasci: Petak 01:00*, 02:30*",
+                "nocnisubota": "Noćni polasci: Subota 01:00*, 02:30*",
+                "nocninedelja": "Noćni polasci: Nema polazaka",
+                "dodatneinformacije": "*sa Ledene Stene/***svracaju u Lozni Kamen",
+                
+                "satnica":
+                {
+                    "danradni": [
+                        
+                        { "sat": "04h", "minuti": "17, 37, 52*** min"},
+                        { "sat": "05h", "minuti": "07, 17, 25, 38, 53 min"},
+                        { "sat": "06h", "minuti": "08, 19, 30, 41, 52 min"},
+                        { "sat": "07h", "minuti": "03, 14, 31*, 37, 55* min"},
+                        { "sat": "08h", "minuti": "06, 27*, 37, 59* min"},
+                        { "sat": "09h", "minuti": "09, 31*, 41 min"},
+                        { "sat": "10h", "minuti": "03*, 13, 35*, 45 min"},
+                        { "sat": "11h", "minuti": "07*, 17, 39*, 49 min"},
+                        { "sat": "12h", "minuti": "00, 11*, 20, 37*, 42, 59* min"},
+                        { "sat": "13h", "minuti": "04, 21*, 26, 43*, 48 min"},
+                        { "sat": "14h", "minuti": "05*, 10, 27*, 32, 49*, 54 min"},
+                        { "sat": "15h", "minuti": "08, 27, 38 min"},
+                        { "sat": "16h", "minuti": "05, 22, 44 min"},
+                        { "sat": "17h", "minuti": "09*, 23, 48* min"},
+                        { "sat": "18h", "minuti": "02, 27*, 41 min"},
+                        { "sat": "19h", "minuti": "06*, 37 min"},
+                        { "sat": "20h", "minuti": "06, 38 min"},
+                        { "sat": "21h", "minuti": "10, 42 min"},
+                        { "sat": "22h", "minuti": "15, 46 min"},
+                        { "sat": "23h", "minuti": "18, 50 min"}
+                        
+                    ],
+                    
+                    "dansubota": [
+                        
+                        { "sat": "04h", "minuti": "25, 52 min"},
+                        { "sat": "05h", "minuti": "30, 58 min"},
+                        { "sat": "06h", "minuti": "35 min"},
+                        { "sat": "07h", "minuti": "09, 34, 58 min"},
+                        { "sat": "08h", "minuti": "31*, 48 min"},
+                        { "sat": "09h", "minuti": "21*, 38 min"},
+                        { "sat": "10h", "minuti": "11*, 28 min"},
+                        { "sat": "11h", "minuti": "01*, 18, 41*, 54* min"},
+                        { "sat": "12h", "minuti": "00, 22*, 29, 43, 57 min"},
+                        { "sat": "13h", "minuti": "11, 25, 39, 53 min"},
+                        { "sat": "14h", "minuti": "07, 30, 55 min"},
+                        { "sat": "15h", "minuti": "20, 45 min"},
+                        { "sat": "16h", "minuti": "10, 45 min"},
+                        { "sat": "17h", "minuti": "00, 25, 55 min"},
+                        { "sat": "18h", "minuti": "15, 40 min"},
+                        { "sat": "19h", "minuti": "05, 30 min"},
+                        { "sat": "20h", "minuti": "02, 35 min"},
+                        { "sat": "21h", "minuti": "07, 39 min"},
+                        { "sat": "22h", "minuti": "06, 43 min"},
+                        { "sat": "23h", "minuti": "15, 47 min"}
+                                                   
+                    ],
+                    
+                    "dannedelja": [
+                        
+                        { "sat": "04h", "minuti": "20, 54 min"},
+                        { "sat": "05h", "minuti": "26, 58 min"},
+                        { "sat": "06h", "minuti": "30 min"},
+                        { "sat": "07h", "minuti": "02, 34, 58 min"},
+                        { "sat": "08h", "minuti": "22, 46 min"},
+                        { "sat": "09h", "minuti": "10, 34, 58 min"},
+                        { "sat": "10h", "minuti": "22, 45 min"},
+                        { "sat": "11h", "minuti": "10, 34, 58 min"},
+                        { "sat": "12h", "minuti": "22, 46 min"},
+                        { "sat": "13h", "minuti": "10, 34, 58 min"},
+                        { "sat": "14h", "minuti": "22, 46 min"},
+                        { "sat": "15h", "minuti": "10, 42 min"},
+                        { "sat": "16h", "minuti": "14 min"},
+                        { "sat": "17h", "minuti": "00, 50 min"},
+                        { "sat": "18h", "minuti": "37 min"},
+                        { "sat": "19h", "minuti": "27 min"},
+                        { "sat": "20h", "minuti": "14 min"},
+                        { "sat": "21h", "minuti": "01, 48 min"},
+                        { "sat": "22h", "minuti": "35 min"},
+                        { "sat": "23h", "minuti": "22 min"}
+                        
+                    ]
+                    
+                }
+            
+            },
+            {
+                "linija": "L08: N. Groblje - Gabr. Reka (Pasi Poljana)",
+                "nocniradni": "Noćni polasci: Petak 01:00*, 02:30*",
+                "nocnisubota": "Noćni polasci: Subota 01:00*, 02:30*",
+                "nocninedelja": "Noćni polasci: Nema polazaka",
+                "dodatneinformacije": "*sa Ledene Stene/***svracaju u Lozni Kamen",
+                
+                "satnica":
+                {
+                    "danradni": [
+                        
+                        { "sat": "04h", "minuti": "17, 37, 52*** min"},
+                        { "sat": "05h", "minuti": "07, 17, 25, 38, 53 min"},
+                        { "sat": "06h", "minuti": "08, 19, 30, 41, 52 min"},
+                        { "sat": "07h", "minuti": "03, 14, 31*, 37, 55* min"},
+                        { "sat": "08h", "minuti": "06, 27*, 37, 59* min"},
+                        { "sat": "09h", "minuti": "09, 31*, 41 min"},
+                        { "sat": "10h", "minuti": "03*, 13, 35*, 45 min"},
+                        { "sat": "11h", "minuti": "07*, 17, 39*, 49 min"},
+                        { "sat": "12h", "minuti": "00, 11*, 20, 37*, 42, 59* min"},
+                        { "sat": "13h", "minuti": "04, 21*, 26, 43*, 48 min"},
+                        { "sat": "14h", "minuti": "05*, 10, 27*, 32, 49*, 54 min"},
+                        { "sat": "15h", "minuti": "08, 27, 38 min"},
+                        { "sat": "16h", "minuti": "05, 22, 44 min"},
+                        { "sat": "17h", "minuti": "09*, 23, 48* min"},
+                        { "sat": "18h", "minuti": "02, 27*, 41 min"},
+                        { "sat": "19h", "minuti": "06*, 37 min"},
+                        { "sat": "20h", "minuti": "06, 38 min"},
+                        { "sat": "21h", "minuti": "10, 42 min"},
+                        { "sat": "22h", "minuti": "15, 46 min"},
+                        { "sat": "23h", "minuti": "18, 50 min"}
+                        
+                    ],
+                    
+                    "dansubota": [
+                        
+                        { "sat": "04h", "minuti": "25, 52 min"},
+                        { "sat": "05h", "minuti": "30, 58 min"},
+                        { "sat": "06h", "minuti": "35 min"},
+                        { "sat": "07h", "minuti": "09, 34, 58 min"},
+                        { "sat": "08h", "minuti": "31*, 48 min"},
+                        { "sat": "09h", "minuti": "21*, 38 min"},
+                        { "sat": "10h", "minuti": "11*, 28 min"},
+                        { "sat": "11h", "minuti": "01*, 18, 41*, 54* min"},
+                        { "sat": "12h", "minuti": "00, 22*, 29, 43, 57 min"},
+                        { "sat": "13h", "minuti": "11, 25, 39, 53 min"},
+                        { "sat": "14h", "minuti": "07, 30, 55 min"},
+                        { "sat": "15h", "minuti": "20, 45 min"},
+                        { "sat": "16h", "minuti": "10, 45 min"},
+                        { "sat": "17h", "minuti": "00, 25, 55 min"},
+                        { "sat": "18h", "minuti": "15, 40 min"},
+                        { "sat": "19h", "minuti": "05, 30 min"},
+                        { "sat": "20h", "minuti": "02, 35 min"},
+                        { "sat": "21h", "minuti": "07, 39 min"},
+                        { "sat": "22h", "minuti": "06, 43 min"},
+                        { "sat": "23h", "minuti": "15, 47 min"}
+                                                   
+                    ],
+                    
+                    "dannedelja": [
+                        
+                        { "sat": "04h", "minuti": "20, 54 min"},
+                        { "sat": "05h", "minuti": "26, 58 min"},
+                        { "sat": "06h", "minuti": "30 min"},
+                        { "sat": "07h", "minuti": "02, 34, 58 min"},
+                        { "sat": "08h", "minuti": "22, 46 min"},
+                        { "sat": "09h", "minuti": "10, 34, 58 min"},
+                        { "sat": "10h", "minuti": "22, 45 min"},
+                        { "sat": "11h", "minuti": "10, 34, 58 min"},
+                        { "sat": "12h", "minuti": "22, 46 min"},
+                        { "sat": "13h", "minuti": "10, 34, 58 min"},
+                        { "sat": "14h", "minuti": "22, 46 min"},
+                        { "sat": "15h", "minuti": "10, 42 min"},
+                        { "sat": "16h", "minuti": "14 min"},
+                        { "sat": "17h", "minuti": "00, 50 min"},
+                        { "sat": "18h", "minuti": "37 min"},
+                        { "sat": "19h", "minuti": "27 min"},
+                        { "sat": "20h", "minuti": "14 min"},
+                        { "sat": "21h", "minuti": "01, 48 min"},
+                        { "sat": "22h", "minuti": "35 min"},
+                        { "sat": "23h", "minuti": "22 min"}
+                        
+                    ]
+                    
+                }
+            
+            },
+            {
+                "linija": "L09: Mokranjčeva - Branko Bjegović",
+                "nocniradni": "Noćni polasci: Petak 01:00*, 02:30*",
+                "nocnisubota": "Noćni polasci: Subota 01:00*, 02:30*",
+                "nocninedelja": "Noćni polasci: Nema polazaka",
+                "dodatneinformacije": "*sa Ledene Stene/***svracaju u Lozni Kamen",
+                
+                "satnica":
+                {
+                    "danradni": [
+                        
+                        { "sat": "04h", "minuti": "17, 37, 52*** min"},
+                        { "sat": "05h", "minuti": "07, 17, 25, 38, 53 min"},
+                        { "sat": "06h", "minuti": "08, 19, 30, 41, 52 min"},
+                        { "sat": "07h", "minuti": "03, 14, 31*, 37, 55* min"},
+                        { "sat": "08h", "minuti": "06, 27*, 37, 59* min"},
+                        { "sat": "09h", "minuti": "09, 31*, 41 min"},
+                        { "sat": "10h", "minuti": "03*, 13, 35*, 45 min"},
+                        { "sat": "11h", "minuti": "07*, 17, 39*, 49 min"},
+                        { "sat": "12h", "minuti": "00, 11*, 20, 37*, 42, 59* min"},
+                        { "sat": "13h", "minuti": "04, 21*, 26, 43*, 48 min"},
+                        { "sat": "14h", "minuti": "05*, 10, 27*, 32, 49*, 54 min"},
+                        { "sat": "15h", "minuti": "08, 27, 38 min"},
+                        { "sat": "16h", "minuti": "05, 22, 44 min"},
+                        { "sat": "17h", "minuti": "09*, 23, 48* min"},
+                        { "sat": "18h", "minuti": "02, 27*, 41 min"},
+                        { "sat": "19h", "minuti": "06*, 37 min"},
+                        { "sat": "20h", "minuti": "06, 38 min"},
+                        { "sat": "21h", "minuti": "10, 42 min"},
+                        { "sat": "22h", "minuti": "15, 46 min"},
+                        { "sat": "23h", "minuti": "18, 50 min"}
+                        
+                    ],
+                    
+                    "dansubota": [
+                        
+                        { "sat": "04h", "minuti": "25, 52 min"},
+                        { "sat": "05h", "minuti": "30, 58 min"},
+                        { "sat": "06h", "minuti": "35 min"},
+                        { "sat": "07h", "minuti": "09, 34, 58 min"},
+                        { "sat": "08h", "minuti": "31*, 48 min"},
+                        { "sat": "09h", "minuti": "21*, 38 min"},
+                        { "sat": "10h", "minuti": "11*, 28 min"},
+                        { "sat": "11h", "minuti": "01*, 18, 41*, 54* min"},
+                        { "sat": "12h", "minuti": "00, 22*, 29, 43, 57 min"},
+                        { "sat": "13h", "minuti": "11, 25, 39, 53 min"},
+                        { "sat": "14h", "minuti": "07, 30, 55 min"},
+                        { "sat": "15h", "minuti": "20, 45 min"},
+                        { "sat": "16h", "minuti": "10, 45 min"},
+                        { "sat": "17h", "minuti": "00, 25, 55 min"},
+                        { "sat": "18h", "minuti": "15, 40 min"},
+                        { "sat": "19h", "minuti": "05, 30 min"},
+                        { "sat": "20h", "minuti": "02, 35 min"},
+                        { "sat": "21h", "minuti": "07, 39 min"},
+                        { "sat": "22h", "minuti": "06, 43 min"},
+                        { "sat": "23h", "minuti": "15, 47 min"}
+                                                   
+                    ],
+                    
+                    "dannedelja": [
+                        
+                        { "sat": "04h", "minuti": "20, 54 min"},
+                        { "sat": "05h", "minuti": "26, 58 min"},
+                        { "sat": "06h", "minuti": "30 min"},
+                        { "sat": "07h", "minuti": "02, 34, 58 min"},
+                        { "sat": "08h", "minuti": "22, 46 min"},
+                        { "sat": "09h", "minuti": "10, 34, 58 min"},
+                        { "sat": "10h", "minuti": "22, 45 min"},
+                        { "sat": "11h", "minuti": "10, 34, 58 min"},
+                        { "sat": "12h", "minuti": "22, 46 min"},
+                        { "sat": "13h", "minuti": "10, 34, 58 min"},
+                        { "sat": "14h", "minuti": "22, 46 min"},
+                        { "sat": "15h", "minuti": "10, 42 min"},
+                        { "sat": "16h", "minuti": "14 min"},
+                        { "sat": "17h", "minuti": "00, 50 min"},
+                        { "sat": "18h", "minuti": "37 min"},
+                        { "sat": "19h", "minuti": "27 min"},
+                        { "sat": "20h", "minuti": "14 min"},
+                        { "sat": "21h", "minuti": "01, 48 min"},
+                        { "sat": "22h", "minuti": "35 min"},
+                        { "sat": "23h", "minuti": "22 min"}
+                        
+                    ]
+                    
+                }
+            
+            },
+            {
+                "linija": "L09: Branko Bjegović - Mokranjčeva",
+                "nocniradni": "Noćni polasci: Petak 01:00*, 02:30*",
+                "nocnisubota": "Noćni polasci: Subota 01:00*, 02:30*",
+                "nocninedelja": "Noćni polasci: Nema polazaka",
+                "dodatneinformacije": "*sa Ledene Stene/***svracaju u Lozni Kamen",
+                
+                "satnica":
+                {
+                    "danradni": [
+                        
+                        { "sat": "04h", "minuti": "17, 37, 52*** min"},
+                        { "sat": "05h", "minuti": "07, 17, 25, 38, 53 min"},
+                        { "sat": "06h", "minuti": "08, 19, 30, 41, 52 min"},
+                        { "sat": "07h", "minuti": "03, 14, 31*, 37, 55* min"},
+                        { "sat": "08h", "minuti": "06, 27*, 37, 59* min"},
+                        { "sat": "09h", "minuti": "09, 31*, 41 min"},
+                        { "sat": "10h", "minuti": "03*, 13, 35*, 45 min"},
+                        { "sat": "11h", "minuti": "07*, 17, 39*, 49 min"},
+                        { "sat": "12h", "minuti": "00, 11*, 20, 37*, 42, 59* min"},
+                        { "sat": "13h", "minuti": "04, 21*, 26, 43*, 48 min"},
+                        { "sat": "14h", "minuti": "05*, 10, 27*, 32, 49*, 54 min"},
+                        { "sat": "15h", "minuti": "08, 27, 38 min"},
+                        { "sat": "16h", "minuti": "05, 22, 44 min"},
+                        { "sat": "17h", "minuti": "09*, 23, 48* min"},
+                        { "sat": "18h", "minuti": "02, 27*, 41 min"},
+                        { "sat": "19h", "minuti": "06*, 37 min"},
+                        { "sat": "20h", "minuti": "06, 38 min"},
+                        { "sat": "21h", "minuti": "10, 42 min"},
+                        { "sat": "22h", "minuti": "15, 46 min"},
+                        { "sat": "23h", "minuti": "18, 50 min"}
+                        
+                    ],
+                    
+                    "dansubota": [
+                        
+                        { "sat": "04h", "minuti": "25, 52 min"},
+                        { "sat": "05h", "minuti": "30, 58 min"},
+                        { "sat": "06h", "minuti": "35 min"},
+                        { "sat": "07h", "minuti": "09, 34, 58 min"},
+                        { "sat": "08h", "minuti": "31*, 48 min"},
+                        { "sat": "09h", "minuti": "21*, 38 min"},
+                        { "sat": "10h", "minuti": "11*, 28 min"},
+                        { "sat": "11h", "minuti": "01*, 18, 41*, 54* min"},
+                        { "sat": "12h", "minuti": "00, 22*, 29, 43, 57 min"},
+                        { "sat": "13h", "minuti": "11, 25, 39, 53 min"},
+                        { "sat": "14h", "minuti": "07, 30, 55 min"},
+                        { "sat": "15h", "minuti": "20, 45 min"},
+                        { "sat": "16h", "minuti": "10, 45 min"},
+                        { "sat": "17h", "minuti": "00, 25, 55 min"},
+                        { "sat": "18h", "minuti": "15, 40 min"},
+                        { "sat": "19h", "minuti": "05, 30 min"},
+                        { "sat": "20h", "minuti": "02, 35 min"},
+                        { "sat": "21h", "minuti": "07, 39 min"},
+                        { "sat": "22h", "minuti": "06, 43 min"},
+                        { "sat": "23h", "minuti": "15, 47 min"}
+                                                   
+                    ],
+                    
+                    "dannedelja": [
+                        
+                        { "sat": "04h", "minuti": "20, 54 min"},
+                        { "sat": "05h", "minuti": "26, 58 min"},
+                        { "sat": "06h", "minuti": "30 min"},
+                        { "sat": "07h", "minuti": "02, 34, 58 min"},
+                        { "sat": "08h", "minuti": "22, 46 min"},
+                        { "sat": "09h", "minuti": "10, 34, 58 min"},
+                        { "sat": "10h", "minuti": "22, 45 min"},
+                        { "sat": "11h", "minuti": "10, 34, 58 min"},
+                        { "sat": "12h", "minuti": "22, 46 min"},
+                        { "sat": "13h", "minuti": "10, 34, 58 min"},
+                        { "sat": "14h", "minuti": "22, 46 min"},
+                        { "sat": "15h", "minuti": "10, 42 min"},
+                        { "sat": "16h", "minuti": "14 min"},
+                        { "sat": "17h", "minuti": "00, 50 min"},
+                        { "sat": "18h", "minuti": "37 min"},
+                        { "sat": "19h", "minuti": "27 min"},
+                        { "sat": "20h", "minuti": "14 min"},
+                        { "sat": "21h", "minuti": "01, 48 min"},
+                        { "sat": "22h", "minuti": "35 min"},
+                        { "sat": "23h", "minuti": "22 min"}
+                        
+                    ]
+                    
+                }
+            
+            },
+            {
+                "linija": "L10: Mokranjčeva - Branko Bjegović",
+                "nocniradni": "Noćni polasci: Petak 01:00*, 02:30*",
+                "nocnisubota": "Noćni polasci: Subota 01:00*, 02:30*",
+                "nocninedelja": "Noćni polasci: Nema polazaka",
+                "dodatneinformacije": "*sa Ledene Stene/***svracaju u Lozni Kamen",
+                
+                "satnica":
+                {
+                    "danradni": [
+                        
+                        { "sat": "04h", "minuti": "17, 37, 52*** min"},
+                        { "sat": "05h", "minuti": "07, 17, 25, 38, 53 min"},
+                        { "sat": "06h", "minuti": "08, 19, 30, 41, 52 min"},
+                        { "sat": "07h", "minuti": "03, 14, 31*, 37, 55* min"},
+                        { "sat": "08h", "minuti": "06, 27*, 37, 59* min"},
+                        { "sat": "09h", "minuti": "09, 31*, 41 min"},
+                        { "sat": "10h", "minuti": "03*, 13, 35*, 45 min"},
+                        { "sat": "11h", "minuti": "07*, 17, 39*, 49 min"},
+                        { "sat": "12h", "minuti": "00, 11*, 20, 37*, 42, 59* min"},
+                        { "sat": "13h", "minuti": "04, 21*, 26, 43*, 48 min"},
+                        { "sat": "14h", "minuti": "05*, 10, 27*, 32, 49*, 54 min"},
+                        { "sat": "15h", "minuti": "08, 27, 38 min"},
+                        { "sat": "16h", "minuti": "05, 22, 44 min"},
+                        { "sat": "17h", "minuti": "09*, 23, 48* min"},
+                        { "sat": "18h", "minuti": "02, 27*, 41 min"},
+                        { "sat": "19h", "minuti": "06*, 37 min"},
+                        { "sat": "20h", "minuti": "06, 38 min"},
+                        { "sat": "21h", "minuti": "10, 42 min"},
+                        { "sat": "22h", "minuti": "15, 46 min"},
+                        { "sat": "23h", "minuti": "18, 50 min"}
+                        
+                    ],
+                    
+                    "dansubota": [
+                        
+                        { "sat": "04h", "minuti": "25, 52 min"},
+                        { "sat": "05h", "minuti": "30, 58 min"},
+                        { "sat": "06h", "minuti": "35 min"},
+                        { "sat": "07h", "minuti": "09, 34, 58 min"},
+                        { "sat": "08h", "minuti": "31*, 48 min"},
+                        { "sat": "09h", "minuti": "21*, 38 min"},
+                        { "sat": "10h", "minuti": "11*, 28 min"},
+                        { "sat": "11h", "minuti": "01*, 18, 41*, 54* min"},
+                        { "sat": "12h", "minuti": "00, 22*, 29, 43, 57 min"},
+                        { "sat": "13h", "minuti": "11, 25, 39, 53 min"},
+                        { "sat": "14h", "minuti": "07, 30, 55 min"},
+                        { "sat": "15h", "minuti": "20, 45 min"},
+                        { "sat": "16h", "minuti": "10, 45 min"},
+                        { "sat": "17h", "minuti": "00, 25, 55 min"},
+                        { "sat": "18h", "minuti": "15, 40 min"},
+                        { "sat": "19h", "minuti": "05, 30 min"},
+                        { "sat": "20h", "minuti": "02, 35 min"},
+                        { "sat": "21h", "minuti": "07, 39 min"},
+                        { "sat": "22h", "minuti": "06, 43 min"},
+                        { "sat": "23h", "minuti": "15, 47 min"}
+                                                   
+                    ],
+                    
+                    "dannedelja": [
+                        
+                        { "sat": "04h", "minuti": "20, 54 min"},
+                        { "sat": "05h", "minuti": "26, 58 min"},
+                        { "sat": "06h", "minuti": "30 min"},
+                        { "sat": "07h", "minuti": "02, 34, 58 min"},
+                        { "sat": "08h", "minuti": "22, 46 min"},
+                        { "sat": "09h", "minuti": "10, 34, 58 min"},
+                        { "sat": "10h", "minuti": "22, 45 min"},
+                        { "sat": "11h", "minuti": "10, 34, 58 min"},
+                        { "sat": "12h", "minuti": "22, 46 min"},
+                        { "sat": "13h", "minuti": "10, 34, 58 min"},
+                        { "sat": "14h", "minuti": "22, 46 min"},
+                        { "sat": "15h", "minuti": "10, 42 min"},
+                        { "sat": "16h", "minuti": "14 min"},
+                        { "sat": "17h", "minuti": "00, 50 min"},
+                        { "sat": "18h", "minuti": "37 min"},
+                        { "sat": "19h", "minuti": "27 min"},
+                        { "sat": "20h", "minuti": "14 min"},
+                        { "sat": "21h", "minuti": "01, 48 min"},
+                        { "sat": "22h", "minuti": "35 min"},
+                        { "sat": "23h", "minuti": "22 min"}
+                        
+                    ]
+                    
+                }
+            
+            },
+            {
+                "linija": "L10: Branko Bjegović - Mokranjčeva",
+                "nocniradni": "Noćni polasci: Petak 01:00*, 02:30*",
+                "nocnisubota": "Noćni polasci: Subota 01:00*, 02:30*",
+                "nocninedelja": "Noćni polasci: Nema polazaka",
+                "dodatneinformacije": "*sa Ledene Stene/***svracaju u Lozni Kamen",
+                
+                "satnica":
+                {
+                    "danradni": [
+                        
+                        { "sat": "04h", "minuti": "17, 37, 52*** min"},
+                        { "sat": "05h", "minuti": "07, 17, 25, 38, 53 min"},
+                        { "sat": "06h", "minuti": "08, 19, 30, 41, 52 min"},
+                        { "sat": "07h", "minuti": "03, 14, 31*, 37, 55* min"},
+                        { "sat": "08h", "minuti": "06, 27*, 37, 59* min"},
+                        { "sat": "09h", "minuti": "09, 31*, 41 min"},
+                        { "sat": "10h", "minuti": "03*, 13, 35*, 45 min"},
+                        { "sat": "11h", "minuti": "07*, 17, 39*, 49 min"},
+                        { "sat": "12h", "minuti": "00, 11*, 20, 37*, 42, 59* min"},
+                        { "sat": "13h", "minuti": "04, 21*, 26, 43*, 48 min"},
+                        { "sat": "14h", "minuti": "05*, 10, 27*, 32, 49*, 54 min"},
+                        { "sat": "15h", "minuti": "08, 27, 38 min"},
+                        { "sat": "16h", "minuti": "05, 22, 44 min"},
+                        { "sat": "17h", "minuti": "09*, 23, 48* min"},
+                        { "sat": "18h", "minuti": "02, 27*, 41 min"},
+                        { "sat": "19h", "minuti": "06*, 37 min"},
+                        { "sat": "20h", "minuti": "06, 38 min"},
+                        { "sat": "21h", "minuti": "10, 42 min"},
+                        { "sat": "22h", "minuti": "15, 46 min"},
+                        { "sat": "23h", "minuti": "18, 50 min"}
+                        
+                    ],
+                    
+                    "dansubota": [
+                        
+                        { "sat": "04h", "minuti": "25, 52 min"},
+                        { "sat": "05h", "minuti": "30, 58 min"},
+                        { "sat": "06h", "minuti": "35 min"},
+                        { "sat": "07h", "minuti": "09, 34, 58 min"},
+                        { "sat": "08h", "minuti": "31*, 48 min"},
+                        { "sat": "09h", "minuti": "21*, 38 min"},
+                        { "sat": "10h", "minuti": "11*, 28 min"},
+                        { "sat": "11h", "minuti": "01*, 18, 41*, 54* min"},
+                        { "sat": "12h", "minuti": "00, 22*, 29, 43, 57 min"},
+                        { "sat": "13h", "minuti": "11, 25, 39, 53 min"},
+                        { "sat": "14h", "minuti": "07, 30, 55 min"},
+                        { "sat": "15h", "minuti": "20, 45 min"},
+                        { "sat": "16h", "minuti": "10, 45 min"},
+                        { "sat": "17h", "minuti": "00, 25, 55 min"},
+                        { "sat": "18h", "minuti": "15, 40 min"},
+                        { "sat": "19h", "minuti": "05, 30 min"},
+                        { "sat": "20h", "minuti": "02, 35 min"},
+                        { "sat": "21h", "minuti": "07, 39 min"},
+                        { "sat": "22h", "minuti": "06, 43 min"},
+                        { "sat": "23h", "minuti": "15, 47 min"}
+                                                   
+                    ],
+                    
+                    "dannedelja": [
+                        
+                        { "sat": "04h", "minuti": "20, 54 min"},
+                        { "sat": "05h", "minuti": "26, 58 min"},
+                        { "sat": "06h", "minuti": "30 min"},
+                        { "sat": "07h", "minuti": "02, 34, 58 min"},
+                        { "sat": "08h", "minuti": "22, 46 min"},
+                        { "sat": "09h", "minuti": "10, 34, 58 min"},
+                        { "sat": "10h", "minuti": "22, 45 min"},
+                        { "sat": "11h", "minuti": "10, 34, 58 min"},
+                        { "sat": "12h", "minuti": "22, 46 min"},
+                        { "sat": "13h", "minuti": "10, 34, 58 min"},
+                        { "sat": "14h", "minuti": "22, 46 min"},
+                        { "sat": "15h", "minuti": "10, 42 min"},
+                        { "sat": "16h", "minuti": "14 min"},
+                        { "sat": "17h", "minuti": "00, 50 min"},
+                        { "sat": "18h", "minuti": "37 min"},
+                        { "sat": "19h", "minuti": "27 min"},
+                        { "sat": "20h", "minuti": "14 min"},
+                        { "sat": "21h", "minuti": "01, 48 min"},
+                        { "sat": "22h", "minuti": "35 min"},
+                        { "sat": "23h", "minuti": "22 min"}
+                        
+                    ]
+                    
+                }
+            
+            },
+            {
+                "linija": "L11: Medoševac - Duvanište",
+                "nocniradni": "Noćni polasci: Petak 01:00*, 02:30*",
+                "nocnisubota": "Noćni polasci: Subota 01:00*, 02:30*",
+                "nocninedelja": "Noćni polasci: Nema polazaka",
+                "dodatneinformacije": "*sa Ledene Stene/***svracaju u Lozni Kamen",
+                
+                "satnica":
+                {
+                    "danradni": [
+                        
+                        { "sat": "04h", "minuti": "17, 37, 52*** min"},
+                        { "sat": "05h", "minuti": "07, 17, 25, 38, 53 min"},
+                        { "sat": "06h", "minuti": "08, 19, 30, 41, 52 min"},
+                        { "sat": "07h", "minuti": "03, 14, 31*, 37, 55* min"},
+                        { "sat": "08h", "minuti": "06, 27*, 37, 59* min"},
+                        { "sat": "09h", "minuti": "09, 31*, 41 min"},
+                        { "sat": "10h", "minuti": "03*, 13, 35*, 45 min"},
+                        { "sat": "11h", "minuti": "07*, 17, 39*, 49 min"},
+                        { "sat": "12h", "minuti": "00, 11*, 20, 37*, 42, 59* min"},
+                        { "sat": "13h", "minuti": "04, 21*, 26, 43*, 48 min"},
+                        { "sat": "14h", "minuti": "05*, 10, 27*, 32, 49*, 54 min"},
+                        { "sat": "15h", "minuti": "08, 27, 38 min"},
+                        { "sat": "16h", "minuti": "05, 22, 44 min"},
+                        { "sat": "17h", "minuti": "09*, 23, 48* min"},
+                        { "sat": "18h", "minuti": "02, 27*, 41 min"},
+                        { "sat": "19h", "minuti": "06*, 37 min"},
+                        { "sat": "20h", "minuti": "06, 38 min"},
+                        { "sat": "21h", "minuti": "10, 42 min"},
+                        { "sat": "22h", "minuti": "15, 46 min"},
+                        { "sat": "23h", "minuti": "18, 50 min"}
+                        
+                    ],
+                    
+                    "dansubota": [
+                        
+                        { "sat": "04h", "minuti": "25, 52 min"},
+                        { "sat": "05h", "minuti": "30, 58 min"},
+                        { "sat": "06h", "minuti": "35 min"},
+                        { "sat": "07h", "minuti": "09, 34, 58 min"},
+                        { "sat": "08h", "minuti": "31*, 48 min"},
+                        { "sat": "09h", "minuti": "21*, 38 min"},
+                        { "sat": "10h", "minuti": "11*, 28 min"},
+                        { "sat": "11h", "minuti": "01*, 18, 41*, 54* min"},
+                        { "sat": "12h", "minuti": "00, 22*, 29, 43, 57 min"},
+                        { "sat": "13h", "minuti": "11, 25, 39, 53 min"},
+                        { "sat": "14h", "minuti": "07, 30, 55 min"},
+                        { "sat": "15h", "minuti": "20, 45 min"},
+                        { "sat": "16h", "minuti": "10, 45 min"},
+                        { "sat": "17h", "minuti": "00, 25, 55 min"},
+                        { "sat": "18h", "minuti": "15, 40 min"},
+                        { "sat": "19h", "minuti": "05, 30 min"},
+                        { "sat": "20h", "minuti": "02, 35 min"},
+                        { "sat": "21h", "minuti": "07, 39 min"},
+                        { "sat": "22h", "minuti": "06, 43 min"},
+                        { "sat": "23h", "minuti": "15, 47 min"}
+                                                   
+                    ],
+                    
+                    "dannedelja": [
+                        
+                        { "sat": "04h", "minuti": "20, 54 min"},
+                        { "sat": "05h", "minuti": "26, 58 min"},
+                        { "sat": "06h", "minuti": "30 min"},
+                        { "sat": "07h", "minuti": "02, 34, 58 min"},
+                        { "sat": "08h", "minuti": "22, 46 min"},
+                        { "sat": "09h", "minuti": "10, 34, 58 min"},
+                        { "sat": "10h", "minuti": "22, 45 min"},
+                        { "sat": "11h", "minuti": "10, 34, 58 min"},
+                        { "sat": "12h", "minuti": "22, 46 min"},
+                        { "sat": "13h", "minuti": "10, 34, 58 min"},
+                        { "sat": "14h", "minuti": "22, 46 min"},
+                        { "sat": "15h", "minuti": "10, 42 min"},
+                        { "sat": "16h", "minuti": "14 min"},
+                        { "sat": "17h", "minuti": "00, 50 min"},
+                        { "sat": "18h", "minuti": "37 min"},
+                        { "sat": "19h", "minuti": "27 min"},
+                        { "sat": "20h", "minuti": "14 min"},
+                        { "sat": "21h", "minuti": "01, 48 min"},
+                        { "sat": "22h", "minuti": "35 min"},
+                        { "sat": "23h", "minuti": "22 min"}
+                        
+                    ]
+                    
+                }
+            
+            },
+            {
+                "linija": "L11: Duvanište - Medoševac",
+                "nocniradni": "Noćni polasci: Petak 01:00*, 02:30*",
+                "nocnisubota": "Noćni polasci: Subota 01:00*, 02:30*",
+                "nocninedelja": "Noćni polasci: Nema polazaka",
+                "dodatneinformacije": "*sa Ledene Stene/***svracaju u Lozni Kamen",
+                
+                "satnica":
+                {
+                    "danradni": [
+                        
+                        { "sat": "04h", "minuti": "17, 37, 52*** min"},
+                        { "sat": "05h", "minuti": "07, 17, 25, 38, 53 min"},
+                        { "sat": "06h", "minuti": "08, 19, 30, 41, 52 min"},
+                        { "sat": "07h", "minuti": "03, 14, 31*, 37, 55* min"},
+                        { "sat": "08h", "minuti": "06, 27*, 37, 59* min"},
+                        { "sat": "09h", "minuti": "09, 31*, 41 min"},
+                        { "sat": "10h", "minuti": "03*, 13, 35*, 45 min"},
+                        { "sat": "11h", "minuti": "07*, 17, 39*, 49 min"},
+                        { "sat": "12h", "minuti": "00, 11*, 20, 37*, 42, 59* min"},
+                        { "sat": "13h", "minuti": "04, 21*, 26, 43*, 48 min"},
+                        { "sat": "14h", "minuti": "05*, 10, 27*, 32, 49*, 54 min"},
+                        { "sat": "15h", "minuti": "08, 27, 38 min"},
+                        { "sat": "16h", "minuti": "05, 22, 44 min"},
+                        { "sat": "17h", "minuti": "09*, 23, 48* min"},
+                        { "sat": "18h", "minuti": "02, 27*, 41 min"},
+                        { "sat": "19h", "minuti": "06*, 37 min"},
+                        { "sat": "20h", "minuti": "06, 38 min"},
+                        { "sat": "21h", "minuti": "10, 42 min"},
+                        { "sat": "22h", "minuti": "15, 46 min"},
+                        { "sat": "23h", "minuti": "18, 50 min"}
+                        
+                    ],
+                    
+                    "dansubota": [
+                        
+                        { "sat": "04h", "minuti": "25, 52 min"},
+                        { "sat": "05h", "minuti": "30, 58 min"},
+                        { "sat": "06h", "minuti": "35 min"},
+                        { "sat": "07h", "minuti": "09, 34, 58 min"},
+                        { "sat": "08h", "minuti": "31*, 48 min"},
+                        { "sat": "09h", "minuti": "21*, 38 min"},
+                        { "sat": "10h", "minuti": "11*, 28 min"},
+                        { "sat": "11h", "minuti": "01*, 18, 41*, 54* min"},
+                        { "sat": "12h", "minuti": "00, 22*, 29, 43, 57 min"},
+                        { "sat": "13h", "minuti": "11, 25, 39, 53 min"},
+                        { "sat": "14h", "minuti": "07, 30, 55 min"},
+                        { "sat": "15h", "minuti": "20, 45 min"},
+                        { "sat": "16h", "minuti": "10, 45 min"},
+                        { "sat": "17h", "minuti": "00, 25, 55 min"},
+                        { "sat": "18h", "minuti": "15, 40 min"},
+                        { "sat": "19h", "minuti": "05, 30 min"},
+                        { "sat": "20h", "minuti": "02, 35 min"},
+                        { "sat": "21h", "minuti": "07, 39 min"},
+                        { "sat": "22h", "minuti": "06, 43 min"},
+                        { "sat": "23h", "minuti": "15, 47 min"}
+                                                   
+                    ],
+                    
+                    "dannedelja": [
+                        
+                        { "sat": "04h", "minuti": "20, 54 min"},
+                        { "sat": "05h", "minuti": "26, 58 min"},
+                        { "sat": "06h", "minuti": "30 min"},
+                        { "sat": "07h", "minuti": "02, 34, 58 min"},
+                        { "sat": "08h", "minuti": "22, 46 min"},
+                        { "sat": "09h", "minuti": "10, 34, 58 min"},
+                        { "sat": "10h", "minuti": "22, 45 min"},
+                        { "sat": "11h", "minuti": "10, 34, 58 min"},
+                        { "sat": "12h", "minuti": "22, 46 min"},
+                        { "sat": "13h", "minuti": "10, 34, 58 min"},
+                        { "sat": "14h", "minuti": "22, 46 min"},
+                        { "sat": "15h", "minuti": "10, 42 min"},
+                        { "sat": "16h", "minuti": "14 min"},
+                        { "sat": "17h", "minuti": "00, 50 min"},
+                        { "sat": "18h", "minuti": "37 min"},
+                        { "sat": "19h", "minuti": "27 min"},
+                        { "sat": "20h", "minuti": "14 min"},
+                        { "sat": "21h", "minuti": "01, 48 min"},
+                        { "sat": "22h", "minuti": "35 min"},
+                        { "sat": "23h", "minuti": "22 min"}
+                        
+                    ]
+                    
+                }
+            
+            },
+            {
+                "linija": "L12: Donji Komren - Njegoševa",
+                "nocniradni": "Noćni polasci: Petak 01:00*, 02:30*",
+                "nocnisubota": "Noćni polasci: Subota 01:00*, 02:30*",
+                "nocninedelja": "Noćni polasci: Nema polazaka",
+                "dodatneinformacije": "*sa Ledene Stene/***svracaju u Lozni Kamen",
+                
+                "satnica":
+                {
+                    "danradni": [
+                        
+                        { "sat": "04h", "minuti": "17, 37, 52*** min"},
+                        { "sat": "05h", "minuti": "07, 17, 25, 38, 53 min"},
+                        { "sat": "06h", "minuti": "08, 19, 30, 41, 52 min"},
+                        { "sat": "07h", "minuti": "03, 14, 31*, 37, 55* min"},
+                        { "sat": "08h", "minuti": "06, 27*, 37, 59* min"},
+                        { "sat": "09h", "minuti": "09, 31*, 41 min"},
+                        { "sat": "10h", "minuti": "03*, 13, 35*, 45 min"},
+                        { "sat": "11h", "minuti": "07*, 17, 39*, 49 min"},
+                        { "sat": "12h", "minuti": "00, 11*, 20, 37*, 42, 59* min"},
+                        { "sat": "13h", "minuti": "04, 21*, 26, 43*, 48 min"},
+                        { "sat": "14h", "minuti": "05*, 10, 27*, 32, 49*, 54 min"},
+                        { "sat": "15h", "minuti": "08, 27, 38 min"},
+                        { "sat": "16h", "minuti": "05, 22, 44 min"},
+                        { "sat": "17h", "minuti": "09*, 23, 48* min"},
+                        { "sat": "18h", "minuti": "02, 27*, 41 min"},
+                        { "sat": "19h", "minuti": "06*, 37 min"},
+                        { "sat": "20h", "minuti": "06, 38 min"},
+                        { "sat": "21h", "minuti": "10, 42 min"},
+                        { "sat": "22h", "minuti": "15, 46 min"},
+                        { "sat": "23h", "minuti": "18, 50 min"}
+                        
+                    ],
+                    
+                    "dansubota": [
+                        
+                        { "sat": "04h", "minuti": "25, 52 min"},
+                        { "sat": "05h", "minuti": "30, 58 min"},
+                        { "sat": "06h", "minuti": "35 min"},
+                        { "sat": "07h", "minuti": "09, 34, 58 min"},
+                        { "sat": "08h", "minuti": "31*, 48 min"},
+                        { "sat": "09h", "minuti": "21*, 38 min"},
+                        { "sat": "10h", "minuti": "11*, 28 min"},
+                        { "sat": "11h", "minuti": "01*, 18, 41*, 54* min"},
+                        { "sat": "12h", "minuti": "00, 22*, 29, 43, 57 min"},
+                        { "sat": "13h", "minuti": "11, 25, 39, 53 min"},
+                        { "sat": "14h", "minuti": "07, 30, 55 min"},
+                        { "sat": "15h", "minuti": "20, 45 min"},
+                        { "sat": "16h", "minuti": "10, 45 min"},
+                        { "sat": "17h", "minuti": "00, 25, 55 min"},
+                        { "sat": "18h", "minuti": "15, 40 min"},
+                        { "sat": "19h", "minuti": "05, 30 min"},
+                        { "sat": "20h", "minuti": "02, 35 min"},
+                        { "sat": "21h", "minuti": "07, 39 min"},
+                        { "sat": "22h", "minuti": "06, 43 min"},
+                        { "sat": "23h", "minuti": "15, 47 min"}
+                                                   
+                    ],
+                    
+                    "dannedelja": [
+                        
+                        { "sat": "04h", "minuti": "20, 54 min"},
+                        { "sat": "05h", "minuti": "26, 58 min"},
+                        { "sat": "06h", "minuti": "30 min"},
+                        { "sat": "07h", "minuti": "02, 34, 58 min"},
+                        { "sat": "08h", "minuti": "22, 46 min"},
+                        { "sat": "09h", "minuti": "10, 34, 58 min"},
+                        { "sat": "10h", "minuti": "22, 45 min"},
+                        { "sat": "11h", "minuti": "10, 34, 58 min"},
+                        { "sat": "12h", "minuti": "22, 46 min"},
+                        { "sat": "13h", "minuti": "10, 34, 58 min"},
+                        { "sat": "14h", "minuti": "22, 46 min"},
+                        { "sat": "15h", "minuti": "10, 42 min"},
+                        { "sat": "16h", "minuti": "14 min"},
+                        { "sat": "17h", "minuti": "00, 50 min"},
+                        { "sat": "18h", "minuti": "37 min"},
+                        { "sat": "19h", "minuti": "27 min"},
+                        { "sat": "20h", "minuti": "14 min"},
+                        { "sat": "21h", "minuti": "01, 48 min"},
+                        { "sat": "22h", "minuti": "35 min"},
+                        { "sat": "23h", "minuti": "22 min"}
+                        
+                    ]
+                    
+                }
+            
+            },
+            {
+                "linija": "L12: Njegoševa - Donji Komren",
+                "nocniradni": "Noćni polasci: Petak 01:00*, 02:30*",
+                "nocnisubota": "Noćni polasci: Subota 01:00*, 02:30*",
+                "nocninedelja": "Noćni polasci: Nema polazaka",
+                "dodatneinformacije": "*sa Ledene Stene/***svracaju u Lozni Kamen",
+                
+                "satnica":
+                {
+                    "danradni": [
+                        
+                        { "sat": "04h", "minuti": "17, 37, 52*** min"},
+                        { "sat": "05h", "minuti": "07, 17, 25, 38, 53 min"},
+                        { "sat": "06h", "minuti": "08, 19, 30, 41, 52 min"},
+                        { "sat": "07h", "minuti": "03, 14, 31*, 37, 55* min"},
+                        { "sat": "08h", "minuti": "06, 27*, 37, 59* min"},
+                        { "sat": "09h", "minuti": "09, 31*, 41 min"},
+                        { "sat": "10h", "minuti": "03*, 13, 35*, 45 min"},
+                        { "sat": "11h", "minuti": "07*, 17, 39*, 49 min"},
+                        { "sat": "12h", "minuti": "00, 11*, 20, 37*, 42, 59* min"},
+                        { "sat": "13h", "minuti": "04, 21*, 26, 43*, 48 min"},
+                        { "sat": "14h", "minuti": "05*, 10, 27*, 32, 49*, 54 min"},
+                        { "sat": "15h", "minuti": "08, 27, 38 min"},
+                        { "sat": "16h", "minuti": "05, 22, 44 min"},
+                        { "sat": "17h", "minuti": "09*, 23, 48* min"},
+                        { "sat": "18h", "minuti": "02, 27*, 41 min"},
+                        { "sat": "19h", "minuti": "06*, 37 min"},
+                        { "sat": "20h", "minuti": "06, 38 min"},
+                        { "sat": "21h", "minuti": "10, 42 min"},
+                        { "sat": "22h", "minuti": "15, 46 min"},
+                        { "sat": "23h", "minuti": "18, 50 min"}
+                        
+                    ],
+                    
+                    "dansubota": [
+                        
+                        { "sat": "04h", "minuti": "25, 52 min"},
+                        { "sat": "05h", "minuti": "30, 58 min"},
+                        { "sat": "06h", "minuti": "35 min"},
+                        { "sat": "07h", "minuti": "09, 34, 58 min"},
+                        { "sat": "08h", "minuti": "31*, 48 min"},
+                        { "sat": "09h", "minuti": "21*, 38 min"},
+                        { "sat": "10h", "minuti": "11*, 28 min"},
+                        { "sat": "11h", "minuti": "01*, 18, 41*, 54* min"},
+                        { "sat": "12h", "minuti": "00, 22*, 29, 43, 57 min"},
+                        { "sat": "13h", "minuti": "11, 25, 39, 53 min"},
+                        { "sat": "14h", "minuti": "07, 30, 55 min"},
+                        { "sat": "15h", "minuti": "20, 45 min"},
+                        { "sat": "16h", "minuti": "10, 45 min"},
+                        { "sat": "17h", "minuti": "00, 25, 55 min"},
+                        { "sat": "18h", "minuti": "15, 40 min"},
+                        { "sat": "19h", "minuti": "05, 30 min"},
+                        { "sat": "20h", "minuti": "02, 35 min"},
+                        { "sat": "21h", "minuti": "07, 39 min"},
+                        { "sat": "22h", "minuti": "06, 43 min"},
+                        { "sat": "23h", "minuti": "15, 47 min"}
+                                                   
+                    ],
+                    
+                    "dannedelja": [
+                        
+                        { "sat": "04h", "minuti": "20, 54 min"},
+                        { "sat": "05h", "minuti": "26, 58 min"},
+                        { "sat": "06h", "minuti": "30 min"},
+                        { "sat": "07h", "minuti": "02, 34, 58 min"},
+                        { "sat": "08h", "minuti": "22, 46 min"},
+                        { "sat": "09h", "minuti": "10, 34, 58 min"},
+                        { "sat": "10h", "minuti": "22, 45 min"},
+                        { "sat": "11h", "minuti": "10, 34, 58 min"},
+                        { "sat": "12h", "minuti": "22, 46 min"},
+                        { "sat": "13h", "minuti": "10, 34, 58 min"},
+                        { "sat": "14h", "minuti": "22, 46 min"},
+                        { "sat": "15h", "minuti": "10, 42 min"},
+                        { "sat": "16h", "minuti": "14 min"},
+                        { "sat": "17h", "minuti": "00, 50 min"},
+                        { "sat": "18h", "minuti": "37 min"},
+                        { "sat": "19h", "minuti": "27 min"},
+                        { "sat": "20h", "minuti": "14 min"},
+                        { "sat": "21h", "minuti": "01, 48 min"},
+                        { "sat": "22h", "minuti": "35 min"},
+                        { "sat": "23h", "minuti": "22 min"}
+                        
+                    ]
+                    
+                }
+            
+            },
+            {
+                "linija": "L13: Trg K. Aleks. - Bul. Nem. - Del. Vis",
+                "nocniradni": "Noćni polasci: Petak 01:00*, 02:30*",
+                "nocnisubota": "Noćni polasci: Subota 01:00*, 02:30*",
+                "nocninedelja": "Noćni polasci: Nema polazaka",
+                "dodatneinformacije": "*sa Ledene Stene/***svracaju u Lozni Kamen",
+                
+                "satnica":
+                {
+                    "danradni": [
+                        
+                        { "sat": "04h", "minuti": "17, 37, 52*** min"},
+                        { "sat": "05h", "minuti": "07, 17, 25, 38, 53 min"},
+                        { "sat": "06h", "minuti": "08, 19, 30, 41, 52 min"},
+                        { "sat": "07h", "minuti": "03, 14, 31*, 37, 55* min"},
+                        { "sat": "08h", "minuti": "06, 27*, 37, 59* min"},
+                        { "sat": "09h", "minuti": "09, 31*, 41 min"},
+                        { "sat": "10h", "minuti": "03*, 13, 35*, 45 min"},
+                        { "sat": "11h", "minuti": "07*, 17, 39*, 49 min"},
+                        { "sat": "12h", "minuti": "00, 11*, 20, 37*, 42, 59* min"},
+                        { "sat": "13h", "minuti": "04, 21*, 26, 43*, 48 min"},
+                        { "sat": "14h", "minuti": "05*, 10, 27*, 32, 49*, 54 min"},
+                        { "sat": "15h", "minuti": "08, 27, 38 min"},
+                        { "sat": "16h", "minuti": "05, 22, 44 min"},
+                        { "sat": "17h", "minuti": "09*, 23, 48* min"},
+                        { "sat": "18h", "minuti": "02, 27*, 41 min"},
+                        { "sat": "19h", "minuti": "06*, 37 min"},
+                        { "sat": "20h", "minuti": "06, 38 min"},
+                        { "sat": "21h", "minuti": "10, 42 min"},
+                        { "sat": "22h", "minuti": "15, 46 min"},
+                        { "sat": "23h", "minuti": "18, 50 min"}
+                        
+                    ],
+                    
+                    "dansubota": [
+                        
+                        { "sat": "04h", "minuti": "25, 52 min"},
+                        { "sat": "05h", "minuti": "30, 58 min"},
+                        { "sat": "06h", "minuti": "35 min"},
+                        { "sat": "07h", "minuti": "09, 34, 58 min"},
+                        { "sat": "08h", "minuti": "31*, 48 min"},
+                        { "sat": "09h", "minuti": "21*, 38 min"},
+                        { "sat": "10h", "minuti": "11*, 28 min"},
+                        { "sat": "11h", "minuti": "01*, 18, 41*, 54* min"},
+                        { "sat": "12h", "minuti": "00, 22*, 29, 43, 57 min"},
+                        { "sat": "13h", "minuti": "11, 25, 39, 53 min"},
+                        { "sat": "14h", "minuti": "07, 30, 55 min"},
+                        { "sat": "15h", "minuti": "20, 45 min"},
+                        { "sat": "16h", "minuti": "10, 45 min"},
+                        { "sat": "17h", "minuti": "00, 25, 55 min"},
+                        { "sat": "18h", "minuti": "15, 40 min"},
+                        { "sat": "19h", "minuti": "05, 30 min"},
+                        { "sat": "20h", "minuti": "02, 35 min"},
+                        { "sat": "21h", "minuti": "07, 39 min"},
+                        { "sat": "22h", "minuti": "06, 43 min"},
+                        { "sat": "23h", "minuti": "15, 47 min"}
+                                                   
+                    ],
+                    
+                    "dannedelja": [
+                        
+                        { "sat": "04h", "minuti": "20, 54 min"},
+                        { "sat": "05h", "minuti": "26, 58 min"},
+                        { "sat": "06h", "minuti": "30 min"},
+                        { "sat": "07h", "minuti": "02, 34, 58 min"},
+                        { "sat": "08h", "minuti": "22, 46 min"},
+                        { "sat": "09h", "minuti": "10, 34, 58 min"},
+                        { "sat": "10h", "minuti": "22, 45 min"},
+                        { "sat": "11h", "minuti": "10, 34, 58 min"},
+                        { "sat": "12h", "minuti": "22, 46 min"},
+                        { "sat": "13h", "minuti": "10, 34, 58 min"},
+                        { "sat": "14h", "minuti": "22, 46 min"},
+                        { "sat": "15h", "minuti": "10, 42 min"},
+                        { "sat": "16h", "minuti": "14 min"},
+                        { "sat": "17h", "minuti": "00, 50 min"},
+                        { "sat": "18h", "minuti": "37 min"},
+                        { "sat": "19h", "minuti": "27 min"},
+                        { "sat": "20h", "minuti": "14 min"},
+                        { "sat": "21h", "minuti": "01, 48 min"},
+                        { "sat": "22h", "minuti": "35 min"},
+                        { "sat": "23h", "minuti": "22 min"}
+                        
+                    ]
+                    
+                }
+            
+            },
+            {
+                "linija": "L13: Del. Vis - Bul. Nem. - Trg K. Aleks.",
+                "nocniradni": "Noćni polasci: Petak 01:00*, 02:30*",
+                "nocnisubota": "Noćni polasci: Subota 01:00*, 02:30*",
+                "nocninedelja": "Noćni polasci: Nema polazaka",
+                "dodatneinformacije": "*sa Ledene Stene/***svracaju u Lozni Kamen",
+                
+                "satnica":
+                {
+                    "danradni": [
+                        
+                        { "sat": "04h", "minuti": "17, 37, 52*** min"},
+                        { "sat": "05h", "minuti": "07, 17, 25, 38, 53 min"},
+                        { "sat": "06h", "minuti": "08, 19, 30, 41, 52 min"},
+                        { "sat": "07h", "minuti": "03, 14, 31*, 37, 55* min"},
+                        { "sat": "08h", "minuti": "06, 27*, 37, 59* min"},
+                        { "sat": "09h", "minuti": "09, 31*, 41 min"},
+                        { "sat": "10h", "minuti": "03*, 13, 35*, 45 min"},
+                        { "sat": "11h", "minuti": "07*, 17, 39*, 49 min"},
+                        { "sat": "12h", "minuti": "00, 11*, 20, 37*, 42, 59* min"},
+                        { "sat": "13h", "minuti": "04, 21*, 26, 43*, 48 min"},
+                        { "sat": "14h", "minuti": "05*, 10, 27*, 32, 49*, 54 min"},
+                        { "sat": "15h", "minuti": "08, 27, 38 min"},
+                        { "sat": "16h", "minuti": "05, 22, 44 min"},
+                        { "sat": "17h", "minuti": "09*, 23, 48* min"},
+                        { "sat": "18h", "minuti": "02, 27*, 41 min"},
+                        { "sat": "19h", "minuti": "06*, 37 min"},
+                        { "sat": "20h", "minuti": "06, 38 min"},
+                        { "sat": "21h", "minuti": "10, 42 min"},
+                        { "sat": "22h", "minuti": "15, 46 min"},
+                        { "sat": "23h", "minuti": "18, 50 min"}
+                        
+                    ],
+                    
+                    "dansubota": [
+                        
+                        { "sat": "04h", "minuti": "25, 52 min"},
+                        { "sat": "05h", "minuti": "30, 58 min"},
+                        { "sat": "06h", "minuti": "35 min"},
+                        { "sat": "07h", "minuti": "09, 34, 58 min"},
+                        { "sat": "08h", "minuti": "31*, 48 min"},
+                        { "sat": "09h", "minuti": "21*, 38 min"},
+                        { "sat": "10h", "minuti": "11*, 28 min"},
+                        { "sat": "11h", "minuti": "01*, 18, 41*, 54* min"},
+                        { "sat": "12h", "minuti": "00, 22*, 29, 43, 57 min"},
+                        { "sat": "13h", "minuti": "11, 25, 39, 53 min"},
+                        { "sat": "14h", "minuti": "07, 30, 55 min"},
+                        { "sat": "15h", "minuti": "20, 45 min"},
+                        { "sat": "16h", "minuti": "10, 45 min"},
+                        { "sat": "17h", "minuti": "00, 25, 55 min"},
+                        { "sat": "18h", "minuti": "15, 40 min"},
+                        { "sat": "19h", "minuti": "05, 30 min"},
+                        { "sat": "20h", "minuti": "02, 35 min"},
+                        { "sat": "21h", "minuti": "07, 39 min"},
+                        { "sat": "22h", "minuti": "06, 43 min"},
+                        { "sat": "23h", "minuti": "15, 47 min"}
+                                                   
+                    ],
+                    
+                    "dannedelja": [
+                        
+                        { "sat": "04h", "minuti": "20, 54 min"},
+                        { "sat": "05h", "minuti": "26, 58 min"},
+                        { "sat": "06h", "minuti": "30 min"},
+                        { "sat": "07h", "minuti": "02, 34, 58 min"},
+                        { "sat": "08h", "minuti": "22, 46 min"},
+                        { "sat": "09h", "minuti": "10, 34, 58 min"},
+                        { "sat": "10h", "minuti": "22, 45 min"},
+                        { "sat": "11h", "minuti": "10, 34, 58 min"},
+                        { "sat": "12h", "minuti": "22, 46 min"},
+                        { "sat": "13h", "minuti": "10, 34, 58 min"},
+                        { "sat": "14h", "minuti": "22, 46 min"},
+                        { "sat": "15h", "minuti": "10, 42 min"},
+                        { "sat": "16h", "minuti": "14 min"},
+                        { "sat": "17h", "minuti": "00, 50 min"},
+                        { "sat": "18h", "minuti": "37 min"},
+                        { "sat": "19h", "minuti": "27 min"},
+                        { "sat": "20h", "minuti": "14 min"},
+                        { "sat": "21h", "minuti": "01, 48 min"},
+                        { "sat": "22h", "minuti": "35 min"},
+                        { "sat": "23h", "minuti": "22 min"}
+                        
+                    ]
+                    
+                }
+            
+            },
+            {
+                "linija": "L34: Aerodrom - Žel. Stanica - Aerodrom",
+                "nocniradni": "Noćni polasci: Petak 01:00*, 02:30*",
+                "nocnisubota": "Noćni polasci: Subota 01:00*, 02:30*",
+                "nocninedelja": "Noćni polasci: Nema polazaka",
+                "dodatneinformacije": "*sa Ledene Stene/***svracaju u Lozni Kamen",
+                
+                "satnica":
+                {
+                    "danradni": [
+                        
+                        { "sat": "04h", "minuti": "17, 37, 52*** min"},
+                        { "sat": "05h", "minuti": "07, 17, 25, 38, 53 min"},
+                        { "sat": "06h", "minuti": "08, 19, 30, 41, 52 min"},
+                        { "sat": "07h", "minuti": "03, 14, 31*, 37, 55* min"},
+                        { "sat": "08h", "minuti": "06, 27*, 37, 59* min"},
+                        { "sat": "09h", "minuti": "09, 31*, 41 min"},
+                        { "sat": "10h", "minuti": "03*, 13, 35*, 45 min"},
+                        { "sat": "11h", "minuti": "07*, 17, 39*, 49 min"},
+                        { "sat": "12h", "minuti": "00, 11*, 20, 37*, 42, 59* min"},
+                        { "sat": "13h", "minuti": "04, 21*, 26, 43*, 48 min"},
+                        { "sat": "14h", "minuti": "05*, 10, 27*, 32, 49*, 54 min"},
+                        { "sat": "15h", "minuti": "08, 27, 38 min"},
+                        { "sat": "16h", "minuti": "05, 22, 44 min"},
+                        { "sat": "17h", "minuti": "09*, 23, 48* min"},
+                        { "sat": "18h", "minuti": "02, 27*, 41 min"},
+                        { "sat": "19h", "minuti": "06*, 37 min"},
+                        { "sat": "20h", "minuti": "06, 38 min"},
+                        { "sat": "21h", "minuti": "10, 42 min"},
+                        { "sat": "22h", "minuti": "15, 46 min"},
+                        { "sat": "23h", "minuti": "18, 50 min"}
+                        
+                    ],
+                    
+                    "dansubota": [
+                        
+                        { "sat": "04h", "minuti": "25, 52 min"},
+                        { "sat": "05h", "minuti": "30, 58 min"},
+                        { "sat": "06h", "minuti": "35 min"},
+                        { "sat": "07h", "minuti": "09, 34, 58 min"},
+                        { "sat": "08h", "minuti": "31*, 48 min"},
+                        { "sat": "09h", "minuti": "21*, 38 min"},
+                        { "sat": "10h", "minuti": "11*, 28 min"},
+                        { "sat": "11h", "minuti": "01*, 18, 41*, 54* min"},
+                        { "sat": "12h", "minuti": "00, 22*, 29, 43, 57 min"},
+                        { "sat": "13h", "minuti": "11, 25, 39, 53 min"},
+                        { "sat": "14h", "minuti": "07, 30, 55 min"},
+                        { "sat": "15h", "minuti": "20, 45 min"},
+                        { "sat": "16h", "minuti": "10, 45 min"},
+                        { "sat": "17h", "minuti": "00, 25, 55 min"},
+                        { "sat": "18h", "minuti": "15, 40 min"},
+                        { "sat": "19h", "minuti": "05, 30 min"},
+                        { "sat": "20h", "minuti": "02, 35 min"},
+                        { "sat": "21h", "minuti": "07, 39 min"},
+                        { "sat": "22h", "minuti": "06, 43 min"},
+                        { "sat": "23h", "minuti": "15, 47 min"}
+                                                   
+                    ],
+                    
+                    "dannedelja": [
+                        
+                        { "sat": "04h", "minuti": "20, 54 min"},
+                        { "sat": "05h", "minuti": "26, 58 min"},
+                        { "sat": "06h", "minuti": "30 min"},
+                        { "sat": "07h", "minuti": "02, 34, 58 min"},
+                        { "sat": "08h", "minuti": "22, 46 min"},
+                        { "sat": "09h", "minuti": "10, 34, 58 min"},
+                        { "sat": "10h", "minuti": "22, 45 min"},
+                        { "sat": "11h", "minuti": "10, 34, 58 min"},
+                        { "sat": "12h", "minuti": "22, 46 min"},
+                        { "sat": "13h", "minuti": "10, 34, 58 min"},
+                        { "sat": "14h", "minuti": "22, 46 min"},
+                        { "sat": "15h", "minuti": "10, 42 min"},
+                        { "sat": "16h", "minuti": "14 min"},
+                        { "sat": "17h", "minuti": "00, 50 min"},
+                        { "sat": "18h", "minuti": "37 min"},
+                        { "sat": "19h", "minuti": "27 min"},
+                        { "sat": "20h", "minuti": "14 min"},
+                        { "sat": "21h", "minuti": "01, 48 min"},
+                        { "sat": "22h", "minuti": "35 min"},
+                        { "sat": "23h", "minuti": "22 min"}
+                        
+                    ]
+                    
+                }
+            
+            },
+            {
+                "linija": "L34: Aerodrom - Aut. Stanica - Aerodrom",
+                "nocniradni": "Noćni polasci: Petak 01:00*, 02:30*",
+                "nocnisubota": "Noćni polasci: Subota 01:00*, 02:30*",
+                "nocninedelja": "Noćni polasci: Nema polazaka",
+                "dodatneinformacije": "*sa Ledene Stene/***svracaju u Lozni Kamen",
+                
+                "satnica":
+                {
+                    "danradni": [
+                        
+                        { "sat": "04h", "minuti": "17, 37, 52*** min"},
+                        { "sat": "05h", "minuti": "07, 17, 25, 38, 53 min"},
+                        { "sat": "06h", "minuti": "08, 19, 30, 41, 52 min"},
+                        { "sat": "07h", "minuti": "03, 14, 31*, 37, 55* min"},
+                        { "sat": "08h", "minuti": "06, 27*, 37, 59* min"},
+                        { "sat": "09h", "minuti": "09, 31*, 41 min"},
+                        { "sat": "10h", "minuti": "03*, 13, 35*, 45 min"},
+                        { "sat": "11h", "minuti": "07*, 17, 39*, 49 min"},
+                        { "sat": "12h", "minuti": "00, 11*, 20, 37*, 42, 59* min"},
+                        { "sat": "13h", "minuti": "04, 21*, 26, 43*, 48 min"},
+                        { "sat": "14h", "minuti": "05*, 10, 27*, 32, 49*, 54 min"},
+                        { "sat": "15h", "minuti": "08, 27, 38 min"},
+                        { "sat": "16h", "minuti": "05, 22, 44 min"},
+                        { "sat": "17h", "minuti": "09*, 23, 48* min"},
+                        { "sat": "18h", "minuti": "02, 27*, 41 min"},
+                        { "sat": "19h", "minuti": "06*, 37 min"},
+                        { "sat": "20h", "minuti": "06, 38 min"},
+                        { "sat": "21h", "minuti": "10, 42 min"},
+                        { "sat": "22h", "minuti": "15, 46 min"},
+                        { "sat": "23h", "minuti": "18, 50 min"}
+                        
+                    ],
+                    
+                    "dansubota": [
+                        
+                        { "sat": "04h", "minuti": "25, 52 min"},
+                        { "sat": "05h", "minuti": "30, 58 min"},
+                        { "sat": "06h", "minuti": "35 min"},
+                        { "sat": "07h", "minuti": "09, 34, 58 min"},
+                        { "sat": "08h", "minuti": "31*, 48 min"},
+                        { "sat": "09h", "minuti": "21*, 38 min"},
+                        { "sat": "10h", "minuti": "11*, 28 min"},
+                        { "sat": "11h", "minuti": "01*, 18, 41*, 54* min"},
+                        { "sat": "12h", "minuti": "00, 22*, 29, 43, 57 min"},
+                        { "sat": "13h", "minuti": "11, 25, 39, 53 min"},
+                        { "sat": "14h", "minuti": "07, 30, 55 min"},
+                        { "sat": "15h", "minuti": "20, 45 min"},
+                        { "sat": "16h", "minuti": "10, 45 min"},
+                        { "sat": "17h", "minuti": "00, 25, 55 min"},
+                        { "sat": "18h", "minuti": "15, 40 min"},
+                        { "sat": "19h", "minuti": "05, 30 min"},
+                        { "sat": "20h", "minuti": "02, 35 min"},
+                        { "sat": "21h", "minuti": "07, 39 min"},
+                        { "sat": "22h", "minuti": "06, 43 min"},
+                        { "sat": "23h", "minuti": "15, 47 min"}
+                                                   
+                    ],
+                    
+                    "dannedelja": [
+                        
+                        { "sat": "04h", "minuti": "20, 54 min"},
+                        { "sat": "05h", "minuti": "26, 58 min"},
+                        { "sat": "06h", "minuti": "30 min"},
+                        { "sat": "07h", "minuti": "02, 34, 58 min"},
+                        { "sat": "08h", "minuti": "22, 46 min"},
+                        { "sat": "09h", "minuti": "10, 34, 58 min"},
+                        { "sat": "10h", "minuti": "22, 45 min"},
+                        { "sat": "11h", "minuti": "10, 34, 58 min"},
+                        { "sat": "12h", "minuti": "22, 46 min"},
+                        { "sat": "13h", "minuti": "10, 34, 58 min"},
+                        { "sat": "14h", "minuti": "22, 46 min"},
+                        { "sat": "15h", "minuti": "10, 42 min"},
+                        { "sat": "16h", "minuti": "14 min"},
+                        { "sat": "17h", "minuti": "00, 50 min"},
+                        { "sat": "18h", "minuti": "37 min"},
+                        { "sat": "19h", "minuti": "27 min"},
+                        { "sat": "20h", "minuti": "14 min"},
+                        { "sat": "21h", "minuti": "01, 48 min"},
+                        { "sat": "22h", "minuti": "35 min"},
+                        { "sat": "23h", "minuti": "22 min"}
+                        
+                    ]
+                    
+                }
+            
+            },
+            {
+                "linija": "L36: Trg Kralja Aleksandra - Mramor",
+                "nocniradni": "Noćni polasci: Petak 01:00*, 02:30*",
+                "nocnisubota": "Noćni polasci: Subota 01:00*, 02:30*",
+                "nocninedelja": "Noćni polasci: Nema polazaka",
+                "dodatneinformacije": "*sa Ledene Stene/***svracaju u Lozni Kamen",
+                
+                "satnica":
+                {
+                    "danradni": [
+                        
+                        { "sat": "04h", "minuti": "17, 37, 52*** min"},
+                        { "sat": "05h", "minuti": "07, 17, 25, 38, 53 min"},
+                        { "sat": "06h", "minuti": "08, 19, 30, 41, 52 min"},
+                        { "sat": "07h", "minuti": "03, 14, 31*, 37, 55* min"},
+                        { "sat": "08h", "minuti": "06, 27*, 37, 59* min"},
+                        { "sat": "09h", "minuti": "09, 31*, 41 min"},
+                        { "sat": "10h", "minuti": "03*, 13, 35*, 45 min"},
+                        { "sat": "11h", "minuti": "07*, 17, 39*, 49 min"},
+                        { "sat": "12h", "minuti": "00, 11*, 20, 37*, 42, 59* min"},
+                        { "sat": "13h", "minuti": "04, 21*, 26, 43*, 48 min"},
+                        { "sat": "14h", "minuti": "05*, 10, 27*, 32, 49*, 54 min"},
+                        { "sat": "15h", "minuti": "08, 27, 38 min"},
+                        { "sat": "16h", "minuti": "05, 22, 44 min"},
+                        { "sat": "17h", "minuti": "09*, 23, 48* min"},
+                        { "sat": "18h", "minuti": "02, 27*, 41 min"},
+                        { "sat": "19h", "minuti": "06*, 37 min"},
+                        { "sat": "20h", "minuti": "06, 38 min"},
+                        { "sat": "21h", "minuti": "10, 42 min"},
+                        { "sat": "22h", "minuti": "15, 46 min"},
+                        { "sat": "23h", "minuti": "18, 50 min"}
+                        
+                    ],
+                    
+                    "dansubota": [
+                        
+                        { "sat": "04h", "minuti": "25, 52 min"},
+                        { "sat": "05h", "minuti": "30, 58 min"},
+                        { "sat": "06h", "minuti": "35 min"},
+                        { "sat": "07h", "minuti": "09, 34, 58 min"},
+                        { "sat": "08h", "minuti": "31*, 48 min"},
+                        { "sat": "09h", "minuti": "21*, 38 min"},
+                        { "sat": "10h", "minuti": "11*, 28 min"},
+                        { "sat": "11h", "minuti": "01*, 18, 41*, 54* min"},
+                        { "sat": "12h", "minuti": "00, 22*, 29, 43, 57 min"},
+                        { "sat": "13h", "minuti": "11, 25, 39, 53 min"},
+                        { "sat": "14h", "minuti": "07, 30, 55 min"},
+                        { "sat": "15h", "minuti": "20, 45 min"},
+                        { "sat": "16h", "minuti": "10, 45 min"},
+                        { "sat": "17h", "minuti": "00, 25, 55 min"},
+                        { "sat": "18h", "minuti": "15, 40 min"},
+                        { "sat": "19h", "minuti": "05, 30 min"},
+                        { "sat": "20h", "minuti": "02, 35 min"},
+                        { "sat": "21h", "minuti": "07, 39 min"},
+                        { "sat": "22h", "minuti": "06, 43 min"},
+                        { "sat": "23h", "minuti": "15, 47 min"}
+                                                   
+                    ],
+                    
+                    "dannedelja": [
+                        
+                        { "sat": "04h", "minuti": "20, 54 min"},
+                        { "sat": "05h", "minuti": "26, 58 min"},
+                        { "sat": "06h", "minuti": "30 min"},
+                        { "sat": "07h", "minuti": "02, 34, 58 min"},
+                        { "sat": "08h", "minuti": "22, 46 min"},
+                        { "sat": "09h", "minuti": "10, 34, 58 min"},
+                        { "sat": "10h", "minuti": "22, 45 min"},
+                        { "sat": "11h", "minuti": "10, 34, 58 min"},
+                        { "sat": "12h", "minuti": "22, 46 min"},
+                        { "sat": "13h", "minuti": "10, 34, 58 min"},
+                        { "sat": "14h", "minuti": "22, 46 min"},
+                        { "sat": "15h", "minuti": "10, 42 min"},
+                        { "sat": "16h", "minuti": "14 min"},
+                        { "sat": "17h", "minuti": "00, 50 min"},
+                        { "sat": "18h", "minuti": "37 min"},
+                        { "sat": "19h", "minuti": "27 min"},
+                        { "sat": "20h", "minuti": "14 min"},
+                        { "sat": "21h", "minuti": "01, 48 min"},
+                        { "sat": "22h", "minuti": "35 min"},
+                        { "sat": "23h", "minuti": "22 min"}
+                        
+                    ]
+                    
+                }
+            
+            },
+            {
+                "linija": "L36: Mramor - Trg Kralja Aleksandra",
+                "nocniradni": "Noćni polasci: Petak 01:00*, 02:30*",
+                "nocnisubota": "Noćni polasci: Subota 01:00*, 02:30*",
+                "nocninedelja": "Noćni polasci: Nema polazaka",
+                "dodatneinformacije": "*sa Ledene Stene/***svracaju u Lozni Kamen",
+                
+                "satnica":
+                {
+                    "danradni": [
+                        
+                        { "sat": "04h", "minuti": "17, 37, 52*** min"},
+                        { "sat": "05h", "minuti": "07, 17, 25, 38, 53 min"},
+                        { "sat": "06h", "minuti": "08, 19, 30, 41, 52 min"},
+                        { "sat": "07h", "minuti": "03, 14, 31*, 37, 55* min"},
+                        { "sat": "08h", "minuti": "06, 27*, 37, 59* min"},
+                        { "sat": "09h", "minuti": "09, 31*, 41 min"},
+                        { "sat": "10h", "minuti": "03*, 13, 35*, 45 min"},
+                        { "sat": "11h", "minuti": "07*, 17, 39*, 49 min"},
+                        { "sat": "12h", "minuti": "00, 11*, 20, 37*, 42, 59* min"},
+                        { "sat": "13h", "minuti": "04, 21*, 26, 43*, 48 min"},
+                        { "sat": "14h", "minuti": "05*, 10, 27*, 32, 49*, 54 min"},
+                        { "sat": "15h", "minuti": "08, 27, 38 min"},
+                        { "sat": "16h", "minuti": "05, 22, 44 min"},
+                        { "sat": "17h", "minuti": "09*, 23, 48* min"},
+                        { "sat": "18h", "minuti": "02, 27*, 41 min"},
+                        { "sat": "19h", "minuti": "06*, 37 min"},
+                        { "sat": "20h", "minuti": "06, 38 min"},
+                        { "sat": "21h", "minuti": "10, 42 min"},
+                        { "sat": "22h", "minuti": "15, 46 min"},
+                        { "sat": "23h", "minuti": "18, 50 min"}
+                        
+                    ],
+                    
+                    "dansubota": [
+                        
+                        { "sat": "04h", "minuti": "25, 52 min"},
+                        { "sat": "05h", "minuti": "30, 58 min"},
+                        { "sat": "06h", "minuti": "35 min"},
+                        { "sat": "07h", "minuti": "09, 34, 58 min"},
+                        { "sat": "08h", "minuti": "31*, 48 min"},
+                        { "sat": "09h", "minuti": "21*, 38 min"},
+                        { "sat": "10h", "minuti": "11*, 28 min"},
+                        { "sat": "11h", "minuti": "01*, 18, 41*, 54* min"},
+                        { "sat": "12h", "minuti": "00, 22*, 29, 43, 57 min"},
+                        { "sat": "13h", "minuti": "11, 25, 39, 53 min"},
+                        { "sat": "14h", "minuti": "07, 30, 55 min"},
+                        { "sat": "15h", "minuti": "20, 45 min"},
+                        { "sat": "16h", "minuti": "10, 45 min"},
+                        { "sat": "17h", "minuti": "00, 25, 55 min"},
+                        { "sat": "18h", "minuti": "15, 40 min"},
+                        { "sat": "19h", "minuti": "05, 30 min"},
+                        { "sat": "20h", "minuti": "02, 35 min"},
+                        { "sat": "21h", "minuti": "07, 39 min"},
+                        { "sat": "22h", "minuti": "06, 43 min"},
+                        { "sat": "23h", "minuti": "15, 47 min"}
+                                                   
+                    ],
+                    
+                    "dannedelja": [
+                        
+                        { "sat": "04h", "minuti": "20, 54 min"},
+                        { "sat": "05h", "minuti": "26, 58 min"},
+                        { "sat": "06h", "minuti": "30 min"},
+                        { "sat": "07h", "minuti": "02, 34, 58 min"},
+                        { "sat": "08h", "minuti": "22, 46 min"},
+                        { "sat": "09h", "minuti": "10, 34, 58 min"},
+                        { "sat": "10h", "minuti": "22, 45 min"},
+                        { "sat": "11h", "minuti": "10, 34, 58 min"},
+                        { "sat": "12h", "minuti": "22, 46 min"},
+                        { "sat": "13h", "minuti": "10, 34, 58 min"},
+                        { "sat": "14h", "minuti": "22, 46 min"},
+                        { "sat": "15h", "minuti": "10, 42 min"},
+                        { "sat": "16h", "minuti": "14 min"},
+                        { "sat": "17h", "minuti": "00, 50 min"},
+                        { "sat": "18h", "minuti": "37 min"},
+                        { "sat": "19h", "minuti": "27 min"},
+                        { "sat": "20h", "minuti": "14 min"},
+                        { "sat": "21h", "minuti": "01, 48 min"},
+                        { "sat": "22h", "minuti": "35 min"},
+                        { "sat": "23h", "minuti": "22 min"}
+                        
+                    ]
+                    
+                }
+            
+            }
+            
+        ]
+}

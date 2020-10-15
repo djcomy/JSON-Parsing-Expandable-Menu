@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="15705" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="PAI-Ho-XqP">
+    <device id="retina5_9" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15706"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Expandable Cell ScrollView-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="ExpandableCellScrollView" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
+                        <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" dataMode="prototypes" style="plain" separatorStyle="none" rowHeight="130" sectionHeaderHeight="1" sectionFooterHeight="1" translatesAutoresizingMaskIntoConstraints="NO" id="e8X-nL-GfX">
+                                <rect key="frame" x="0.0" y="88" width="375" height="690"/>
+                                <color key="backgroundColor" red="0.92149049039999997" green="0.91394680740000001" blue="0.91771221160000005" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <connections>
+                                    <outlet property="dataSource" destination="BYZ-38-t0r" id="1nu-Px-7nf"/>
+                                    <outlet property="delegate" destination="BYZ-38-t0r" id="j7z-P3-feQ"/>
+                                </connections>
+                            </tableView>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="e8X-nL-GfX" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="O5a-tG-CRl"/>
+                            <constraint firstItem="e8X-nL-GfX" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" id="Z4z-WL-JuB"/>
+                            <constraint firstAttribute="trailing" secondItem="e8X-nL-GfX" secondAttribute="trailing" id="fUw-rJ-Xmj"/>
+                            <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="e8X-nL-GfX" secondAttribute="bottom" id="fcN-HN-ggw"/>
+                        </constraints>
+                    </view>
+                    <navigationItem key="navigationItem" title="Expandable Cell ScrollView" id="VlT-9R-iUq"/>
+                    <connections>
+                        <outlet property="scrollViewHolder" destination="e8X-nL-GfX" id="fAH-kv-C4a"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="853.60000000000002" y="-543.8423645320197"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="7AK-6y-N6R">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="PAI-Ho-XqP" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="e5Q-ZQ-NBP">
+                        <rect key="frame" x="0.0" y="44" width="375" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="BYZ-38-t0r" kind="relationship" relationship="rootViewController" id="O2c-ZJ-fmg"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="BAp-lC-2hH" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="172" y="-543.77811094452773"/>
+        </scene>
+    </scenes>
+</document>
