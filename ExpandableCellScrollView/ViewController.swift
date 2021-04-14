@@ -16,55 +16,14 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
     var lastCell: StackViewCell = StackViewCell()
     var button_tag:Int = -1
     let cellSpacingHeight: CGFloat = 5
-    //@IBOutlet weak var scrollViewHolder: UIView!
     
     @IBOutlet weak var scrollViewHolder: UITableView!
     
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        //!!!!!!!DEO KODA ZA POZIVANJE JSON-a SA SERVERA!!!!!!//
-        
-//        let url = URL(string: "http://developya.com/gradskelinije.json")
-//
-//        let task = URLSession.shared.dataTask(with: url! as URL) {
-//            data, response, error in
-//            if error == nil
-//            {
-//                do {
-//
-//        let results = try JSONSerialization.jsonObject(with: data as Data, options: []) as! [String:AnyObject]
-//
-//        self.linije = results["gradskelinije"] as! Array<[String: Any]> as [[String : AnyObject]]
-//
-//        DispatchQueue.main.async(execute: {
-//        self.tableView.reloadData()
-//        })
-//        print(results)
-//    } catch let error {
-//        print("\(error)")
-//    }
-//            }
-//        }
-//        task.resume()
-        
-        
-        
         loadJSON()
-//        scrollViewHolder.backgroundColor = UIColor.white
-//        tableView = UITableView(frame: view.frame)
-//        tableView.layer.frame.size.height = scrollViewHolder.frame.height
-//        tableView.backgroundColor = UIColor.white
-//        //tableView.layer.frame.size.height = self.view.frame.height
-//        tableView.layer.frame.size.width = scrollViewHolder.frame.width
-//        tableView.frame.origin.y += 0
-//        tableView.register(UINib(nibName: "StackViewCell", bundle: nil), forCellReuseIdentifier: "StackViewCell")
-//        tableView.delegate = self
-//        tableView.dataSource = self
-//        tableView.allowsSelection = false
-//        tableView.separatorStyle = .singleLine
-//        scrollViewHolder.addSubview(tableView)
-        
+
         scrollViewHolder.register(UINib(nibName: "StackViewCell", bundle:nil), forCellReuseIdentifier: "StackViewCell")
 
         scrollViewHolder.delegate = self
@@ -98,16 +57,6 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
             return 50
         }
     }
-    
-//    func tableView(_ tableView: UITableView, heightForHeaderInSection section: Int) -> CGFloat {
-//        return cellSpacingHeight
-//    }
-//
-//    func tableView(_ tableView: UITableView, viewForHeaderInSection section: Int) -> UIView? {
-//        let headerView = UIView()
-//        headerView.backgroundColor = UIColor.black
-//        return headerView
-//    }
     
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         return linije.count
